@@ -1,3 +1,14 @@
+Upload another file
+Type: pdf
+Pages: 70/116
+Time: 0.00s
+
+Preview
+Raw
+
+
+
+
 
 ## Page 1
 
@@ -2454,3 +2465,6001 @@ KATOWICE I GZM
 
 &lt;img&gt;Grafton Gi Group Holding Logo&lt;/img&gt;
 
+---
+
+
+## Page 31
+
+&lt;page_number&gt;31&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Lódź logo&lt;/img&gt;
+
+LICZBA LUDNOŚCI**
+czwierć 2023 r.
+655 279
+
+LICZBA ZATRUDNIONYCH W BSS***
+2023 r.
+29 460
+
+BEZROBOCIE
+grudzień 2023 r.
+4,4%
+
+LICZBA LUDNOŚCI W WIEKU PRODUKCYJNYM*
+2022 r.
+386 776
+
+LICZBA ODDANYCH MIESZKAŃ
+grudzień 2023 r.
+5236
+
+ŚREDNIE WYNAGRODZENIE BRUTTO
+grudzień 2023 r.
+7611,46 zł
+
+* GUS – Bank Danych Lokalnych, 2022 r.
+** GUS – Bank Danych Lokalnych, 2023 r.
+*** Źródło danych: raport ABSL „Sektor nowoczesnych usług biznesowych w Polsce 2023”
+
+grafton
+Gi Group Holding
+
+---
+
+
+## Page 32
+
+&lt;page_number&gt;32&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+ŁÓDŹ
+
+&lt;img&gt;A woman with long dark hair wearing a black blazer and a colorful scarf.&lt;/img&gt;
+
+# Agnieszka Dublańska
+Team Leader
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+Co czeka nas w tym roku? Z początkiem roku widać odwilż w budżetach firm oraz coraz większe zainteresowanie rekrutacjami specjalistów w branży. Prognozy na 2024 rok w pewnych zakresach wykluczają się, więc powinniśmy się spodziewać niespodziewanego. Warto jednak spojrzeć na 2024 rok łaskawym okiem z nadzieją na nadchodzące zmiany gospodarcze w naszym mieście.
+
+<table>
+  <tr>
+    <td>&lt;img&gt;Icon of two people.&lt;/img&gt; Liczba ludności<br>czerwiec 2023</td>
+    <td>Gdańsk i Trójmiasto</td>
+  </tr>
+  <tr>
+    <td>&lt;img&gt;Icon of a briefcase.&lt;/img&gt; Liczba ludności<br>w wieku produkcyjnym<br>2022</td>
+    <td>Gdańsk 486 492 303 670 -<br>Trójmiasto 761 495 468 586 37 867</td>
+  </tr>
+  <tr>
+    <td>&lt;img&gt;Icon of a handshake.&lt;/img&gt; Liczba zatrudnionych<br>w BSS<br>2023</td>
+    <td>Poznań 540 146 339 592 26 267</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Warszawa 1 861 644 1 160 569 95 277</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Łódź 655 279 386 776 29 460</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Katowice i GZM Katowice 279 100 164 752 31 957 GZM 2 135 806 1 241 961 -</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Kraków 804 200 510 444 97 950</td>
+  </tr>
+</table>
+
+Dla wielu przedsiębiorców również z branży BSS/BPO w Łodzi rok 2023 był intensywny pod względem dostosowania się do zmieniających się warunków gospodarczych, czy politycznych oraz adaptacji do wdrożenia nowych technologii z zakresu sztucznej inteligencji. Co za tym idzie, w minionym roku branża nie odnotowała znaczących wzrostów zatrudnienia. Z drugiej strony wykazała się pewną dozą odporności i nie zanotowała spektakularnych zwolnień czy spowolnienia w prowadzeniu swoich biznesów, co nastraja pozytywnie. Mocnym akcentem na pewno było otwarcie w połowie roku nowego inwestora – Alorica z biurem w budynku React. Firma ma ambitne plany zatrudnienia na 2024 rok.
+
+Łódź cały czas leży w centrum zainteresowania inwestorów zagranicznych i mocno zaznacza się na branżowej mapie Polski. Szczególnie było to widać przy okazji eventu organizowanego przez Pro Progressio – The BSS Tour, który zgromadził gości nie tylko z innych miast Polski, ale również z zagranicy. W ubiegłym roku nie rosły już tak intensywnie wynagrodzenia, jak w latach poprzednich, za to rekrutacja talentów na stanowiska księgowe, kontrolingowe, językowe, operacyjne, sprzedażowe nadal stanowi wyzwanie.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 33
+
+&lt;page_number&gt;33&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+ŁÓDŹ
+
+&lt;img&gt;Graduation Cap Icon&lt;/img&gt; Szkolnictwo wyższe
+
+Łódź jest wybierana przez studentów, którzy chcą kształcić się w takich kierunkach jak biznes, administracja i prawo. Prawie 22% studentów decyduje się na kształcenie i poszerzanie wiedzy w tych specjalizacjach.
+
+Powodzeniem cieszą się także kierunki związane z ochroną zdrowia i opieką społeczną – 15,8%. W roku akademickim 2022/2023 na łódzkich uczelniach studiowało ponad 72 tys. studentów. W porównaniu do ubiegłego roku odnotowano spadek liczby studentów o ponad 3%. Nie zmienia to jednak faktu, że uczelnie w Łodzi kończy co roku około 17 tys. studentów.
+
+Grupa kierunków kształcenia według ISCED-F 2013
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>21,85%</td>
+      <td>&lt;img&gt;Red Circle&lt;/img&gt; Biznes, administracja i prawo</td>
+    </tr>
+    <tr>
+      <td>15,83%</td>
+      <td>&lt;img&gt;Orange Circle&lt;/img&gt; Zdrowie i opieka społeczna</td>
+    </tr>
+    <tr>
+      <td>12,64%</td>
+      <td>&lt;img&gt;Green Circle&lt;/img&gt; Nauki społeczne, dziennikarstwo i informacja</td>
+    </tr>
+    <tr>
+      <td>11,61%</td>
+      <td>&lt;img&gt;Purple Circle&lt;/img&gt; Nauki humanistyczne i sztuka</td>
+    </tr>
+    <tr>
+      <td>10,39%</td>
+      <td>&lt;img&gt;Blue Circle&lt;/img&gt; Technika, przemysł, budownictwo</td>
+    </tr>
+    <tr>
+      <td>6,16%</td>
+      <td>&lt;img&gt;Grey Circle&lt;/img&gt; Technologie teleinformatyczne</td>
+    </tr>
+    <tr>
+      <td>6,04%</td>
+      <td>&lt;img&gt;Teal Circle&lt;/img&gt; Kształcenie</td>
+    </tr>
+    <tr>
+      <td>5,70%</td>
+      <td>&lt;img&gt;Dark Blue Circle&lt;/img&gt; Usługi</td>
+    </tr>
+    <tr>
+      <td>5,42%</td>
+      <td>&lt;img&gt;Light Grey Circle&lt;/img&gt; Indywidualne studia międzyobszarowe</td>
+    </tr>
+    <tr>
+      <td>4,14%</td>
+      <td>&lt;img&gt;Black Circle&lt;/img&gt; Nauki przyrodnicze, matematyka i statystyka</td>
+    </tr>
+    <tr>
+      <td>0,23%</td>
+      <td>&lt;img&gt;Dark Red Circle&lt;/img&gt; Rolnictwo</td>
+    </tr>
+  </tbody>
+</table>
+
+Wykres - źródło danych: GUS Szkolnictwo wyższe w roku akademickim 2022/2023
+
+&lt;img&gt;Map of Poland with cities highlighted&lt;/img&gt;
+Trójmiasto
+&lt;img&gt;Document Icon&lt;/img&gt; 77 781 &lt;img&gt;Graduation Cap Icon&lt;/img&gt; 18 015 ↑↓ -0,7%
+
+Poznań
+&lt;img&gt;Document Icon&lt;/img&gt; 113 873 &lt;img&gt;Graduation Cap Icon&lt;/img&gt; 27 479 ↑↓ +0,1%
+
+Warszawa
+&lt;img&gt;Document Icon&lt;/img&gt; 250 131 &lt;img&gt;Graduation Cap Icon&lt;/img&gt; 49 501 ↑↓ +4,1%
+
+Łódź
+&lt;img&gt;Document Icon&lt;/img&gt; 72 355 &lt;img&gt;Graduation Cap Icon&lt;/img&gt; 17 447 ↑↓ -3,25%
+
+Wrocław
+&lt;img&gt;Document Icon&lt;/img&gt; 105 809 &lt;img&gt;Graduation Cap Icon&lt;/img&gt; 27 261 ↑↓ -1,8%
+
+GZM
+&lt;img&gt;Document Icon&lt;/img&gt; 87 086 &lt;img&gt;Graduation Cap Icon&lt;/img&gt; 21 885 ↑↓ +0,5%
+
+Kraków
+&lt;img&gt;Document Icon&lt;/img&gt; 127 631 &lt;img&gt;Graduation Cap Icon&lt;/img&gt; 32 157 ↑↓ -1,2%
+
+&lt;img&gt;Document Icon&lt;/img&gt; Liczba studiujących w roku akademickim 2022/2023 (GUS)
+&lt;img&gt;Graduation Cap Icon&lt;/img&gt; Liczba absolwentów w roku akademickim 2022/2023 (GUS)
+↑↓ Zmiana liczby studentów r/r
+
+&lt;img&gt;Grafton Gi Group Holding Logo&lt;/img&gt;
+
+---
+
+
+## Page 34
+
+&lt;page_number&gt;34&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Office Chair Icon&lt;/img&gt; Rynek powierzchni biurowych
+
+&lt;img&gt;Anna Trębicka Portrait&lt;/img&gt;
+Anna Trębicka
+Director,
+Łódź Region
+
+&lt;img&gt;CBRE Logo&lt;/img&gt;
+
+&lt;img&gt;Building with Icons&lt;/img&gt;
+ŁÓDŹ
+
+**Tempo rozwoju rynku**
+**Popyt**
+
+**636 704**
+Całkowita powierzchnia biurowa (m kw.)
+
+**54 591**
+Popyt (m kw.)
+
+**1900**
+Nowa podaż powierzchni biurowej (m kw.)
+
+**12,8%**
+Różnica popytu w porównaniu do 2022 roku
+
+**129 273**
+Powierzchnia pustostanów (m kw.)
+
+**20,3%**
+Stopa pustostanów (%)
+
+Rok 2023 można uznać za udany dla rozwoju rynku biurowego w Łodzi. Pomimo wysokiego współczynnika pustostanów (20,3%) oraz niskiej liczby nowo oddanej powierzchni biurowej (1,9 tys. mkw.), rynek biurowy rozwija się stabilnie. Sztandarowe projekty budynków biurowych w Łodzi (tj. Monopolis, Ogrodowa, Brama Miasta) zyskują zainteresowanie najemców, a także inwestorów zagranicznych, którzy w 2023 roku często zaglądali do Łodzi.
+
+W roku 2024 przewidujemy dalszy rozwój rynku biurowego. Zwiększa się atrakcyjność Łodzi jako miasta regionalnego Polski, którego standard i jakość życia szybko zyskują na znaczeniu. Silny wpływ na rozwój lokalnego rynku nieruchomości w krótkiej i dłuższej perspektywie mają inwestycje infrastrukturalne tj. kolej szybkich prędkości, Centralny Port Komunikacyjny, poszerzenie autostrady A2, remonty ulic i kamienic na terenie miasta.
+
+&lt;img&gt;Grafton Gi Group Holding Logo&lt;/img&gt;
+
+---
+
+
+## Page 35
+
+&lt;page_number&gt;35&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+POZNAŃ
+
+&lt;img&gt;Poznań logo&lt;/img&gt;
+
+LICZBA LUDNOŚCI**
+czewiec 2023 r.
+**540 146**
+
+LICZBA ZATRUDNIONYCH W BSS***
+2023 r.
+**26 267**
+
+BEZROBOCIE
+grudzień 2023 r.
+**1%**
+
+LICZBA LUDNOŚCI W WIEKU PRODUKCYJNYM*
+2022 r.
+**339 592**
+
+LICZBA ODDANYCH MIESZKAŃ
+grudzień 2023 r.
+**4612**
+
+ŚREDNIE WYNAGRODZENIE BRUTTO
+grudzień 2023 r.
+**8363,01 zł**
+
+* GUS – Bank Danych Lokalnych, 2022 r.
+** GUS – Bank Danych Lokalnych, 2023 r.
+*** Źródło danych: raport ABSL „Sektor nowoczesnych usług biznesowych w Polsce 2023”
+
+grafton
+Gi Group Holding
+
+---
+
+
+## Page 36
+
+&lt;page_number&gt;36&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+POZNAŃ
+
+&lt;img&gt;Poznań logo&lt;/img&gt;
+
+Niepewność i ostrożność towarzysząca nam w roku 2023, choć nie przemija, to ustępuje bardziej optymistycznym prognozom. Zapowiedź nowych inwestycji zagranicznych, jak i delikatny wzrost zatrudnienia na początku 2024 roku, dają nadzieję, że sektor usług dla biznesu będzie kontynuować i umacniać swoją, i tak silną już pozycję w Wielkopolsce.
+
+&lt;img&gt;Michał Piernik portrait&lt;/img&gt;
+Michał Piernik
+Division Manager
+
+&lt;img&gt;Grafton logo&lt;/img&gt;
+Grafton
+Gi Group Holding
+
+Poznański rynek, podobnie jak i inne regiony Polski, doświadczył w 2023 roku spowolnienia. Mniejsza liczba ofert pracy spowodowała, że wzrosła konkurencja na rynku. Wielu pracodawców znalazło się w lepszym niż przed rokiem położeniu pozwalającym, chociażby negocjować zasady powrotu do biur, minimalizując możliwość 100% pracy zdalnej.
+
+Ze strony pracowników zmniejszyła się presja płacowa. Wzrost wynagrodzeń obserwujemy głównie na stanowiskach niższych i specjalistycznych. Wynagrodzenia menedżerów rosną wolniej i zazwyczaj nie są to podwyżki dwucyfrowe. Pomimo zawirowań i niepewności gospodarczej, Poznań tradycyjnie odnotowuje najniższy w kraju wskaźnik bezrobocia, a dojrzałość rynku usług SSC sprawia, że miasto potwierdza swoją mocną pozycję zarówno pod kątem jakości życia, jak i rynku pracy. Mimo że rynek nie był rozgrzany tak, jak w latach ubiegłych, a ofert pracy było mniej, wcale nie przekłada się to na łatwiejsze przyciągnięcie talentów. Pracownicy z obszaru zakupowego, finansowo – księgowego, w tym specjaliści od księgi głównej, środków trwałych, eksperci podatkowi, jak i kontrolerzy finansowi to wciąż profile, których rekrutowanie bywa wymagające. Wśród języków obcych poza angielskim, dominuje język niemiecki.
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Liczba ludności czerwiec 2023</th>
+      <th>Gdańsk i Trójmiasto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&lt;img&gt;People icon&lt;/img&gt;</td>
+      <td></td>
+      <td>&lt;img&gt;People icon&lt;/img&gt; Gdańsk 486 492 &lt;img&gt;Briefcase icon&lt;/img&gt; 303 670 -</td>
+    </tr>
+    <tr>
+      <td>&lt;img&gt;Briefcase icon&lt;/img&gt;</td>
+      <td>Liczba ludności w wieku produkcyjnym 2022</td>
+      <td>&lt;img&gt;People icon&lt;/img&gt; Gdańsk 761 495 &lt;img&gt;Briefcase icon&lt;/img&gt; 468 586 &lt;img&gt;Handshake icon&lt;/img&gt; 37 867</td>
+    </tr>
+    <tr>
+      <td>&lt;img&gt;Handshake icon&lt;/img&gt;</td>
+      <td>Liczba zatrudnionych w BSS 2023</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&lt;img&gt;People icon&lt;/img&gt;</td>
+      <td></td>
+      <td>&lt;img&gt;People icon&lt;/img&gt; Poznań 540 146 &lt;img&gt;Briefcase icon&lt;/img&gt; 339 592 &lt;img&gt;Handshake icon&lt;/img&gt; 26 267</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>&lt;img&gt;People icon&lt;/img&gt; Warszawa 1 861 644 &lt;img&gt;Briefcase icon&lt;/img&gt; 1 160 569 &lt;img&gt;Handshake icon&lt;/img&gt; 95 277</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>&lt;img&gt;People icon&lt;/img&gt; Łódź 655 279 &lt;img&gt;Briefcase icon&lt;/img&gt; 386 776 &lt;img&gt;Handshake icon&lt;/img&gt; 29 460</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>&lt;img&gt;People icon&lt;/img&gt; Wrocław 674 100 &lt;img&gt;Briefcase icon&lt;/img&gt; 425 770 &lt;img&gt;Handshake icon&lt;/img&gt; 63 421</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>&lt;img&gt;People icon&lt;/img&gt; Katowice i GZM &lt;img&gt;People icon&lt;/img&gt; Katowice 279 100 &lt;img&gt;Briefcase icon&lt;/img&gt; 164 752 &lt;img&gt;Handshake icon&lt;/img&gt; 31 957</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>&lt;img&gt;People icon&lt;/img&gt; GZM 2 135 806 &lt;img&gt;Briefcase icon&lt;/img&gt; 1 241 961 -</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>&lt;img&gt;People icon&lt;/img&gt; Kraków 804 200 &lt;img&gt;Briefcase icon&lt;/img&gt; 510 444 &lt;img&gt;Handshake icon&lt;/img&gt; 97 950</td>
+    </tr>
+  </tbody>
+</table>
+
+&lt;img&gt;Grafton logo&lt;/img&gt;
+Grafton
+Gi Group Holding
+
+---
+
+
+## Page 37
+
+&lt;page_number&gt;37&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+POZNAN
+
+&lt;img&gt;A red graduation cap icon.&lt;/img&gt;
+# Szkolnictwo wyższe
+
+**W Poznaniu studiuje prawie 114 tys. studentów. Najchętniej wybierają kierunki związane z biznesem, administracją i prawem – 28%.**
+
+Popularne są także nauki humanistyczne i sztuka – prawie 13%. Poznańskie ośrodki akademickie walczą o studenta. Zaowocowało to delikatnym wzrostem liczby studentów w porównaniu do roku akademickiego 2022/2023. Rocznie mury uczelni opuszcza ponad 27 tys. absolwentów.
+
+**Grupa kierunków kształcenia według ISCED-F 2013**
+
+<table>
+<thead>
+<tr>
+<th>Procent</th>
+<th>Kolor</th>
+<th>Kierunek</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>28,01%</td>
+<td style="background-color: #FF0000;">🔴</td>
+<td>Biznes, administracja i prawo</td>
+</tr>
+<tr>
+<td>12,93%</td>
+<td style="background-color: #6B5B95;">🟣</td>
+<td>Nauki humanistyczne<br>i sztuka</td>
+</tr>
+<tr>
+<td>11,08%</td>
+<td style="background-color: #00326B;">🔵</td>
+<td>Technika, przemysł,<br>budownictwo</td>
+</tr>
+<tr>
+<td>10,90%</td>
+<td style="background-color: #F4A460;">🟡</td>
+<td>Zdrowie i opieka społeczna</td>
+</tr>
+<tr>
+<td>9,86%</td>
+<td style="background-color: #66CD00;">🟢</td>
+<td>Nauki społeczne,<br>dziennikarstwo i informacja</td>
+</tr>
+<tr>
+<td>8,44%</td>
+<td style="background-color: #000080;">🔵</td>
+<td>Usługi</td>
+</tr>
+<tr>
+<td>7,18%</td>
+<td style="background-color: #C0C0C0;">⚪</td>
+<td>Technologie<br>teleinformacyjne</td>
+</tr>
+<tr>
+<td>5,35%</td>
+<td style="background-color: #008080;">🟢</td>
+<td>Kształcenie</td>
+</tr>
+<tr>
+<td>3,75%</td>
+<td style="background-color: #000000;">⚫</td>
+<td>Nauki przyrodnicze,<br>matematyka i statystyka</td>
+</tr>
+<tr>
+<td>2,35%</td>
+<td style="background-color: #FF0000;">🔴</td>
+<td>Rolnictwo</td>
+</tr>
+<tr>
+<td>0,15%</td>
+<td style="background-color: #C0C0C0;">⚪</td>
+<td>Indywidualne studia<br>międzyobszarowe</td>
+</tr>
+</tbody>
+</table>
+
+&lt;img&gt;A pie chart with various colored segments representing different groups of higher education degrees according to ISCED-F 2013. The largest segment is red, representing "Business, administration and law" at 28.01%. Other segments include "Humanities and arts" (12.93%), "Engineering, industry, construction" (11.08%), "Health and social care" (10.90%), "Social sciences, journalism and information" (9.86%), "Services" (8.44%), "Telecommunications technologies" (7.18%), "Education" (5.35%), "Natural sciences, mathematics and statistics" (3.75%), "Agriculture" (2.35%), and "Interdisciplinary studies" (0.15%).&lt;/img&gt;
+
+Wykres - źródło danych: GUS Szkolnictwo wyższe w roku akademickim 2022/2023
+
+&lt;img&gt;A map of Poland with various cities highlighted in red. The cities shown are Trójmiasto, Poznań, Warszawa, Łódź, Wrocław, GZM, and Kraków.&lt;/img&gt;
+
+**Trójmiasto**
+<table>
+<tr>
+<td>&lt;img&gt;A square icon with a number inside.&lt;/img&gt; 77 781</td>
+<td>&lt;img&gt;A graduation cap icon.&lt;/img&gt; 18 015</td>
+<td>&lt;img&gt;An up arrow and down arrow icon.&lt;/img&gt; -0,7%</td>
+</tr>
+</table>
+
+**Poznań**
+<table>
+<tr>
+<td>&lt;img&gt;A square icon with a number inside.&lt;/img&gt; 113 873</td>
+<td>&lt;img&gt;A graduation cap icon.&lt;/img&gt; 27 479</td>
+<td>&lt;img&gt;An up arrow and down arrow icon.&lt;/img&gt; +0,1%</td>
+</tr>
+</table>
+
+**Warszawa**
+<table>
+<tr>
+<td>&lt;img&gt;A square icon with a number inside.&lt;/img&gt; 250 131</td>
+<td>&lt;img&gt;A graduation cap icon.&lt;/img&gt; 49 501</td>
+<td>&lt;img&gt;An up arrow and down arrow icon.&lt;/img&gt; +4,1%</td>
+</tr>
+</table>
+
+**Łódź**
+<table>
+<tr>
+<td>&lt;img&gt;A square icon with a number inside.&lt;/img&gt; 72 355</td>
+<td>&lt;img&gt;A graduation cap icon.&lt;/img&gt; 17 447</td>
+<td>&lt;img&gt;An up arrow and down arrow icon.&lt;/img&gt; -3,25%</td>
+</tr>
+</table>
+
+**Wrocław**
+<table>
+<tr>
+<td>&lt;img&gt;A square icon with a number inside.&lt;/img&gt; 105 809</td>
+<td>&lt;img&gt;A graduation cap icon.&lt;/img&gt; 27 261</td>
+<td>&lt;img&gt;An up arrow and down arrow icon.&lt;/img&gt; -1,8%</td>
+</tr>
+</table>
+
+**GZM**
+<table>
+<tr>
+<td>&lt;img&gt;A square icon with a number inside.&lt;/img&gt; 87 086</td>
+<td>&lt;img&gt;A graduation cap icon.&lt;/img&gt; 21 885</td>
+<td>&lt;img&gt;An up arrow and down arrow icon.&lt;/img&gt; +0,5%</td>
+</tr>
+</table>
+
+**Kraków**
+<table>
+<tr>
+<td>&lt;img&gt;A square icon with a number inside.&lt;/img&gt; 127 631</td>
+<td>&lt;img&gt;A graduation cap icon.&lt;/img&gt; 32 157</td>
+<td>&lt;img&gt;An up arrow and down arrow icon.&lt;/img&gt; -1,2%</td>
+</tr>
+</table>
+
+&lt;img&gt;A square icon with a number inside.&lt;/img&gt; Liczba studiujących w roku akademickim 2022/2023 (GUS)
+&lt;img&gt;A graduation cap icon.&lt;/img&gt; Liczba absolwentów w roku akademickim 2022/2023 (GUS)
+&lt;img&gt;An up arrow and down arrow icon.&lt;/img&gt; Zmiana liczby studentów r/r
+
+grafton
+GI Group Holding
+
+---
+
+
+## Page 38
+
+&lt;page_number&gt;38&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+POZNAŃ
+
+&lt;img&gt;Office Chair Icon&lt;/img&gt; Rynek powierzchni biurowych
+
+&lt;img&gt;Bartosz Frąckowiak Portrait&lt;/img&gt;
+Bartosz Frąckowiak
+Associate Director,
+Poznań Region
+
+&lt;img&gt;CBRE Logo&lt;/img&gt;
+
+&lt;img&gt;Growth Chart Icon&lt;/img&gt; Tempo rozwoju rynku
+&lt;img&gt;Shopping Cart Icon&lt;/img&gt; Popyt
+
+672 136
+Całkowita powierzchnia biurowa (m kw.)
+
+77 506
+Popyt (m kw.)
+
+43 195
+Nowa podaż powierzchni biurowej (m kw.)
+
+66,46%
+Różnica popytu w porównaniu do 2022 roku
+
+98 876
+Powierzchnia pustostanów (m kw.)
+
+14,71%
+Stopa pustostanów (%)
+
+Rok 2023 można ocenić jako udany dla Poznania: oddano więcej projektów (np. Nowy Rynek), a współczynnik pustostanów był jednym z najniższych w Polsce – **14,7%**. Zapoczątkowany został nowy trend związany z realizacją mniejszych projektów biurowych przeznaczonych zarówno dla najemców, jak i dla inwestorów, na potrzeby własne.
+
+Dla Poznania rok 2023 na rynku nieruchomości minął pod hastem „optymalizacja”. Dotyczy to wynajmujących, którzy elastycznie podchodzili do sytuacji związanych z sytuacją biznesową oraz najemców, dla których ESG, integracja, wydajność, efektywność oraz zadowolenie pracowników były kluczowe. Dodatkowo dzięki swojemu strategicznemu położeniu, rozbudowanej infrastrukturze komunikacyjnej i rewitalizacji miasta, Poznań przyciągał zainteresowanie inwestorów zagranicznych.
+
+W 2024 roku ogromnym wyzwaniem na rynku nieruchomości będą kwestie związane z ESG (w tym obowiązkowe raportowanie). Oprócz nowych budynków klasy A oddanych do użytku w ostatnich latach, w Poznaniu istnieją również starsze projekty biurowe klasy A/B, które muszą dostosować się do nowych realiów i trendów. Modernizacja starych budynków biurowych z myślą o zasadach ESG nie tylko przyczynia się do zrównoważonego rozwoju, ale także może przynieść korzyści finansowe, poprawiając efektywność energetyczną i atrakcyjność dla najemców. W kwestii rynku biurowego w Poznaniu można zaobserwować delikatny wzrost stawek ofertowych, stabilizację po biegotorocznych zawirowaniach stawek service charge oraz wzrost zainteresowania najemców powierzchniami typu flex.
+
+&lt;img&gt;Grafton Gi Group Holding Logo&lt;/img&gt;
+
+---
+
+
+## Page 39
+
+&lt;page_number&gt;39&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+WYNAGRODZENIE
+
+# Wynagrodzenia
+
+Benchmark jest tworzony przez ekspertów Grafton Recruitment. Podane widełki wynagrodzeń w polskich złotych brutto/miesięcznie. Wartości przedstawione w badaniu obejmują zarówno rzeczywiste wartości rynkowe, jak i prognozy na 2024 rok. W tym wydaniu dodatkowo przedstawiono najczęściej oferowaną (NO) wartość wynagrodzenia. Minimum przedziału oznacza najniższą wartość wynagrodzenia, za jaką można zatrudnić danego specjalistę, maksimum najwyższą wartość wynagrodzenia, za jaką można zatrudnić danego specjalistę z najlepszym doświadczeniem, wykształceniem lub umiejętnościami.
+
+**Wynagrodzenia w najważniejszych obszarach podzielono według lokalizacji i doświadczenia:**
+
+<table>
+  <tr>
+    <td>Entry level</td>
+    <td>do roku doświadczenia</td>
+  </tr>
+  <tr>
+    <td>Specjala</td>
+    <td>od 1 do 3 lat doświadczenia</td>
+  </tr>
+  <tr>
+    <td>Starszy specjala</td>
+    <td>od 3 do 5 lat doświadczenia jako specjala</td>
+  </tr>
+  <tr>
+    <td>Team leader</td>
+    <td>przynajmniej rok doświadczenia jako lider</td>
+  </tr>
+  <tr>
+    <td>Manager</td>
+    <td>przynajmniej rok doświadczenia jako manager</td>
+  </tr>
+</table>
+
+&lt;img&gt;grafton&lt;/img&gt;
+G Group Holding
+
+---
+
+
+## Page 40
+
+&lt;page_number&gt;40&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+WYNAGRODZENIA
+
+&lt;img&gt;Stack of coins icon&lt;/img&gt; Wynagrodzenia
+
+Kadra kierownicza
+najwyższego
+i średniego szczebla
+
+&lt;img&gt;Two people high-fiving&lt;/img&gt;
+
+grafton
+GI Group Holding
+
+---
+
+
+## Page 41
+
+&lt;page_number&gt;41&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; **Kadra kierownicza najwyższego i średniego szczebla**
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Poznań</th>
+<th colspan="3">Gdańsk</th>
+<th colspan="3">Warszawa</th>
+<th colspan="3">Wrocław</th>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2024</td>
+<td></td>
+<td colspan="2">2024</td>
+<td></td>
+<td colspan="2">2024</td>
+<td></td>
+<td colspan="2">2024</td>
+</tr>
+<tr>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><strong>Head of SSC</strong></td>
+</tr>
+<tr>
+<td>&lt;300 FTE</td>
+<td>27 000</td>
+<td>40 000</td>
+<td>34 000</td>
+<td>28 000</td>
+<td>42 000</td>
+<td>36 000</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>45 000</td>
+<td>30 000</td>
+<td>42 000</td>
+<td>36 000</td>
+</tr>
+<tr>
+<td>300 – 1 000 FTE</td>
+<td>37 000</td>
+<td>50 000</td>
+<td>40 000</td>
+<td>38 000</td>
+<td>50 000</td>
+<td>42 000</td>
+<td>50 000</td>
+<td>65 000</td>
+<td>55 000</td>
+<td>38 000</td>
+<td>50 000</td>
+<td>42 000</td>
+</tr>
+<tr>
+<td>+ 1000 FTE</td>
+<td>45 000</td>
+<td>60 000</td>
+<td>50 000</td>
+<td>45 000</td>
+<td>65 000</td>
+<td>55 000</td>
+<td>65 000</td>
+<td>85 000</td>
+<td>75 000</td>
+<td>45 000</td>
+<td>65 000</td>
+<td>55 000</td>
+</tr>
+<tr>
+<td>Head of Finance</td>
+<td>24 000</td>
+<td>40 000</td>
+<td>33 000</td>
+<td>22 000</td>
+<td>36 000</td>
+<td>30 000</td>
+<td>30 000</td>
+<td>40 000</td>
+<td>35 000</td>
+<td>22 000</td>
+<td>36 000</td>
+<td>30 000</td>
+</tr>
+<tr>
+<td>(Senior) Operations Manager</td>
+<td>15 000</td>
+<td>27 000</td>
+<td>22 000</td>
+<td>16 000</td>
+<td>25 000</td>
+<td>20 000</td>
+<td>30 000</td>
+<td>50 000</td>
+<td>40 000</td>
+<td>16 000</td>
+<td>25 000</td>
+<td>20 000</td>
+</tr>
+<tr>
+<td>Service Delivery Manager</td>
+<td>16 000</td>
+<td>25 000</td>
+<td>22 000</td>
+<td>16 000</td>
+<td>25 000</td>
+<td>20 000</td>
+<td>23 000</td>
+<td>33 000</td>
+<td>30 000</td>
+<td>14 000</td>
+<td>25 000</td>
+<td>20 000</td>
+</tr>
+<tr>
+<td>Transition Manager</td>
+<td>16 000</td>
+<td>25 000</td>
+<td>22 000</td>
+<td>17 000</td>
+<td>25 000</td>
+<td>21 000</td>
+<td>22 000</td>
+<td>30 000</td>
+<td>28 000</td>
+<td>17 000</td>
+<td>25 000</td>
+<td>21 000</td>
+</tr>
+<tr>
+<td>Improvement Process Manager</td>
+<td>18 000</td>
+<td>25 000</td>
+<td>22 000</td>
+<td>18 000</td>
+<td>27 000</td>
+<td>22 000</td>
+<td>20 000</td>
+<td>30 000</td>
+<td>25 000</td>
+<td>18 000</td>
+<td>27 000</td>
+<td>22 000</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Łódź</th>
+<th colspan="3">Katowice</th>
+<th colspan="3">Kraków</th>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2024</td>
+<td></td>
+<td colspan="2">2024</td>
+<td></td>
+<td colspan="2">2024</td>
+</tr>
+<tr>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="10"><strong>Head of SSC</strong></td>
+</tr>
+<tr>
+<td>&lt;300 FTE</td>
+<td>27 000</td>
+<td>37 000</td>
+<td>35 000</td>
+<td>26 000</td>
+<td>38 000</td>
+<td>34 000</td>
+<td>30 000</td>
+<td>47 000</td>
+<td>37 000</td>
+</tr>
+<tr>
+<td>300 – 1 000 FTE</td>
+<td>35 000</td>
+<td>42 000</td>
+<td>38 000</td>
+<td>35 000</td>
+<td>42 000</td>
+<td>38 000</td>
+<td>40 000</td>
+<td>57 000</td>
+<td>50 000</td>
+</tr>
+<tr>
+<td>+ 1000 FTE</td>
+<td>40 000</td>
+<td>55 000</td>
+<td>50 000</td>
+<td>440 000</td>
+<td>55 000</td>
+<td>48 000</td>
+<td>45 000</td>
+<td>70 000</td>
+<td>57 000</td>
+</tr>
+<tr>
+<td>Head of Finance</td>
+<td>23 000</td>
+<td>40 000</td>
+<td>35 000</td>
+<td>20 000</td>
+<td>35 000</td>
+<td>28 000</td>
+<td>22 000</td>
+<td>38 000</td>
+<td>29 000</td>
+</tr>
+<tr>
+<td>(Senior) Operations Manager</td>
+<td>17 000</td>
+<td>30 000</td>
+<td>25 000</td>
+<td>16 000</td>
+<td>25 000</td>
+<td>20 000</td>
+<td>17 000</td>
+<td>33 000</td>
+<td>25 000</td>
+</tr>
+<tr>
+<td>Service Delivery Manager</td>
+<td>17 000</td>
+<td>28 000</td>
+<td>23 000</td>
+<td>15 000</td>
+<td>25 000</td>
+<td>20 000</td>
+<td>17 000</td>
+<td>30 000</td>
+<td>22 000</td>
+</tr>
+<tr>
+<td>Transition Manager</td>
+<td>17 000</td>
+<td>27 000</td>
+<td>24 000</td>
+<td>17 000</td>
+<td>25 000</td>
+<td>22 000</td>
+<td>17 000</td>
+<td>26 000</td>
+<td>23 000</td>
+</tr>
+<tr>
+<td>Improvement Process Manager</td>
+<td>18 000</td>
+<td>28 000</td>
+<td>25 000</td>
+<td>17 000</td>
+<td>27 000</td>
+<td>22 000</td>
+<td>17 000</td>
+<td>28 000</td>
+<td>23 000</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;graffton logo&lt;/img&gt;
+Gł Group Holding
+
+---
+
+
+## Page 42
+
+&lt;page_number&gt;42&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Stack of coins icon&lt;/img&gt; Wynagrodzenia
+
+Wynagrodzenia
+
+Uslugi bankowe
+i finansowe
+
+grafton
+Gi Group Holding
+
+---
+
+
+## Page 43
+
+&lt;page_number&gt;43&lt;/page_number&gt;
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Usługi bankowe i finansowe
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="3">Poznań</th>
+      <th colspan="3">Gdańsk</th>
+      <th colspan="3">Warszawa</th>
+      <th colspan="3">Wrocław</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th colspan="2">2024</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th colspan="2">2024</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th colspan="2">2024</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="16"><strong>Regulatory & Compliance (incl. AML, KYC, CDD)</strong></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>5 800</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td>7 500</td>
+      <td>7 000</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 500</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 500</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>7 500</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>11 000</td>
+      <td>10 000</td>
+      <td>11 000</td>
+      <td>14 000</td>
+      <td>12 000</td>
+      <td>8 000</td>
+      <td>11 000</td>
+      <td>10 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>12 000</td>
+      <td>14 000</td>
+      <td>13 500</td>
+      <td>13 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>13 000</td>
+      <td>18 000</td>
+      <td>16 500</td>
+      <td>14 000</td>
+      <td>19 000</td>
+      <td>17 000</td>
+      <td>20 000</td>
+      <td>25 000</td>
+      <td>22 000</td>
+      <td>14 000</td>
+      <td>19 000</td>
+      <td>17 000</td>
+    </tr>
+    <tr>
+      <td colspan="16"><strong>Investment Reporting and Controlling</strong></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 500</td>
+      <td>6 500</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>9 000</td>
+      <td>8 500</td>
+      <td>5 500</td>
+      <td>7 000</td>
+      <td>6 500</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>6 800</td>
+      <td>9 500</td>
+      <td>8 000</td>
+      <td>9 500</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>6 700</td>
+      <td>9 500</td>
+      <td>8 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>9 000</td>
+      <td>11 500</td>
+      <td>11 000</td>
+      <td>9 500</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>12 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>9 500</td>
+      <td>14 000</td>
+      <td>12 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>13 000</td>
+      <td>17 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>16 000</td>
+      <td>20 000</td>
+      <td>17 000</td>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>17 000</td>
+      <td>22 000</td>
+      <td>20 000</td>
+      <td>17 000</td>
+      <td>22 000</td>
+      <td>20 000</td>
+      <td>20 000</td>
+      <td>25 000</td>
+      <td>23 000</td>
+      <td>17 000</td>
+      <td>22 000</td>
+      <td>20 000</td>
+    </tr>
+    <tr>
+      <td colspan="16"><strong>Audit</strong></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>5 500</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>7 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>5 500</td>
+      <td>7 000</td>
+      <td>6 500</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>7 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>6 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>8 500</td>
+      <td>11 000</td>
+      <td>10 000</td>
+      <td>6 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>10 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>9 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>11 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>9 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>13 000</td>
+      <td>16 000</td>
+      <td>14 000</td>
+      <td>14 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>15 000</td>
+      <td>18 000</td>
+      <td>17 000</td>
+      <td>13 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>15 000</td>
+      <td>22 000</td>
+      <td>18 000</td>
+      <td>15 000</td>
+      <td>20 000</td>
+      <td>18 000</td>
+      <td>18 000</td>
+      <td>24 000</td>
+      <td>22 000</td>
+      <td>15 000</td>
+      <td>20 000</td>
+      <td>18 000</td>
+    </tr>
+  </tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 44
+
+&lt;page_number&gt;44&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Usługi bankowe i finansowe
+
+Łódź
+Katowice
+Kraków
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th colspan="3">2024</th>
+<th colspan="3">2024</th>
+<th colspan="3">2024</th>
+</tr>
+<tr>
+<th></th>
+<th>min</th>
+<th>max</th>
+<th>NO</th>
+<th>min</th>
+<th>max</th>
+<th>NO</th>
+<th>min</th>
+<th>max</th>
+<th>NO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="10"><strong>Regulatory & Compliance (incl. AML, KYC, CDD)</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 600</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 700</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 000</td>
+<td>7 500</td>
+<td>6 800</td>
+<td>6 000</td>
+<td>7 500</td>
+<td>7 000</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>7 500</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>8 000</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>7 500</td>
+<td>10 500</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>10 000</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>12 000</td>
+<td>15 000</td>
+<td>14 000</td>
+<td>11 000</td>
+<td>15 000</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>15 000</td>
+<td>18 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>18 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>19 000</td>
+<td>17 000</td>
+</tr>
+<tr>
+<td colspan="10"><strong>Investment Reporting and Controlling</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 500</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>8 500</td>
+<td>7 500</td>
+<td>6 500</td>
+<td>9 000</td>
+<td>7 500</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>9 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>8 500</td>
+<td>12 000</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>12 500</td>
+<td>16 000</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>17 000</td>
+<td>22 000</td>
+<td>20 000</td>
+<td>17 000</td>
+<td>21 000</td>
+<td>19 000</td>
+<td>16 000</td>
+<td>22 000</td>
+<td>19 000</td>
+</tr>
+<tr>
+<td colspan="10"><strong>Audit</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 500</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>7 000</td>
+<td>8 500</td>
+<td>8 000</td>
+<td>6 500</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>6 500</td>
+<td>9 000</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>14 500</td>
+<td>12 500</td>
+<td>16 000</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>16 000</td>
+<td>22 000</td>
+<td>20 000</td>
+<td>16 000</td>
+<td>22 000</td>
+<td>18 000</td>
+<td>16 000</td>
+<td>21 000</td>
+<td>18 000</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;graffton logo&lt;/img&gt;
+Graffton
+Gi Group Holding
+
+---
+
+
+## Page 45
+
+&lt;page_number&gt;45&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Usługi bankowe i finansowe
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Poznań</th>
+      <th colspan="3">Gdańsk</th>
+      <th colspan="3">Warszawa</th>
+      <th colspan="3">Wrocław</th>
+    </tr>
+    <tr>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+    </tr>
+    <tr>
+      <td>min</td>
+      <td>max</td>
+      <td>NO</td>
+      <td>min</td>
+      <td>max</td>
+      <td>NO</td>
+      <td>min</td>
+      <td>max</td>
+      <td>NO</td>
+      <td>min</td>
+      <td>max</td>
+      <td>NO</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="12"><b>Client Account Management</b></td>
+    </tr>
+    <tr>
+      <td colspan="12">____________</td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>4 500</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>9 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>5 000</td>
+      <td>6 000</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>5 500</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>10 000</td>
+      <td>13 000</td>
+      <td>11 000</td>
+      <td>6 000</td>
+      <td>8 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>7 500</td>
+      <td>9 000</td>
+      <td>8 500</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>12 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>12 500</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>12 500</td>
+      <td>15 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>10 000</td>
+      <td>12 500</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>18 000</td>
+      <td>22 000</td>
+      <td>20 000</td>
+      <td>14 000</td>
+      <td>18 000</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Łódź</th>
+      <th colspan="3">Katowice</th>
+      <th colspan="3">Kraków</th>
+    </tr>
+    <tr>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+    </tr>
+    <tr>
+      <td>min</td>
+      <td>max</td>
+      <td>NO</td>
+      <td>min</td>
+      <td>max</td>
+      <td>NO</td>
+      <td>min</td>
+      <td>max</td>
+      <td>NO</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="9"><b>Client Account Management</b></td>
+    </tr>
+    <tr>
+      <td colspan="9">____________</td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>6 000</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>5 500</td>
+      <td>8 000</td>
+      <td>6 500</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>6 000</td>
+      <td>8 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>11 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>12 500</td>
+      <td>11 000</td>
+      <td>13 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>16 000</td>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+    </tr>
+  </tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+Grafton
+Gi Group Holding
+
+---
+
+
+## Page 46
+
+&lt;page_number&gt;46&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Stack of coins icon&lt;/img&gt; Wynagrodzenia
+
+Wynagrodzenia
+
+Obsluga klienta
+i sprzedaż
+
+&lt;img&gt;Two hands shaking&lt;/img&gt;
+
+grafton
+Gi Group Holding
+
+---
+
+
+## Page 47
+
+&lt;page_number&gt;47&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Obsluga klienta i sprzedaż
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Poznań</th>
+<th colspan="3">Gdańsk</th>
+<th colspan="3">Warszawa</th>
+<th colspan="3">Wrocław</th>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2024</td>
+<td></td>
+<td colspan="2">2024</td>
+<td></td>
+<td colspan="2">2024</td>
+<td></td>
+<td colspan="2">2024</td>
+</tr>
+<tr>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><strong>Back Office</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>5 800</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 500</td>
+<td>5 500</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 500</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 000</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>6 500</td>
+<td>7 500</td>
+<td>7 000</td>
+<td>7 500</td>
+<td>8 500</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 500</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>7 500</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>7 500</td>
+<td>11 000</td>
+<td>9 000</td>
+<td>9 000</td>
+<td>10 000</td>
+<td>9 500</td>
+<td>7 500</td>
+<td>11 000</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>9 000</td>
+<td>13 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>14 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>10 000</td>
+<td>14 000</td>
+<td>12 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>15 000</td>
+<td>18 000</td>
+<td>16 000</td>
+<td>13 000</td>
+<td>18 000</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td colspan="13"><strong>CS inbound (Customer Operations)</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>5 800</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 800</td>
+<td>5 500</td>
+<td>7 000</td>
+<td>6 000</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 800</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>7 200</td>
+<td>7 500</td>
+<td>8 500</td>
+<td>8 000</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>7 200</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>7 500</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>7 500</td>
+<td>10 000</td>
+<td>8 500</td>
+<td>8 500</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>7 500</td>
+<td>10 000</td>
+<td>8 500</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>13 500</td>
+<td>11 500</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>12 000</td>
+<td>10 000</td>
+<td>13 500</td>
+<td>11 500</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 500</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>14 500</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 500</td>
+</tr>
+<tr>
+<td colspan="13"><strong>CS outbound (Telemarketing)</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>5 800</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 800</td>
+<td>6 000</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 800</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>7 200</td>
+<td>7 000</td>
+<td>8 500</td>
+<td>8 000</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>7 200</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>7 500</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>7 500</td>
+<td>10 000</td>
+<td>8 500</td>
+<td>8 500</td>
+<td>9 500</td>
+<td>9 000</td>
+<td>7 500</td>
+<td>10 000</td>
+<td>8 500</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>13 500</td>
+<td>11 500</td>
+<td>10 000</td>
+<td>14 000</td>
+<td>12 000</td>
+<td>10 000</td>
+<td>13 500</td>
+<td>11 500</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 500</td>
+<td>14 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 500</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+Grafton
+Gi Group Holding
+
+---
+
+
+## Page 48
+
+&lt;page_number&gt;48&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Obsluga klienta i sprzedaż
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Łódź</th>
+<th colspan="3">Katowice</th>
+<th colspan="3">Kraków</th>
+</tr>
+<tr>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+</tr>
+<tr>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="10"><strong>Back Office</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 200</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 500</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>5 700</td>
+<td>7 000</td>
+<td>6 200</td>
+<td>6 000</td>
+<td>7 500</td>
+<td>6 800</td>
+<td>6 000</td>
+<td>7 500</td>
+<td>6 500</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>6 800</td>
+<td>9 000</td>
+<td>7 500</td>
+<td>7 500</td>
+<td>9 500</td>
+<td>8 000</td>
+<td>8 000</td>
+<td>9 500</td>
+<td>7 500</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>9 500</td>
+<td>12 000</td>
+<td>10 500</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>14 000</td>
+<td>12 000</td>
+<td>17 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>18 000</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td colspan="10"><strong>CS inbound (Customer Operations)</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 700</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>5 500</td>
+<td>7 000</td>
+<td>6 200</td>
+<td>6 000</td>
+<td>7 800</td>
+<td>7 000</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>6 500</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>6 500</td>
+<td>8 500</td>
+<td>7 000</td>
+<td>7 800</td>
+<td>9 500</td>
+<td>8 500</td>
+<td>8 000</td>
+<td>9 500</td>
+<td>7 500</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>12 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>18 000</td>
+<td>16 000</td>
+<td>13 000</td>
+<td>18 000</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td colspan="10"><strong>CS outbound (Telemarketing)</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>4 800</td>
+<td>5 800</td>
+<td>5 000</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 700</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>5 500</td>
+<td>7 000</td>
+<td>6 200</td>
+<td>5 800</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>6 500</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>6 500</td>
+<td>8 500</td>
+<td>7 000</td>
+<td>7 000</td>
+<td>8 500</td>
+<td>7 800</td>
+<td>8 000</td>
+<td>9 500</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>18 000</td>
+<td>15 000</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+Grafton
+Gi Group Holding
+
+---
+
+
+## Page 49
+
+&lt;page_number&gt;49&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Wynagrodzenia logo&lt;/img&gt; Wynagrodzenia
+
+Finanse i rachunkowość
+
+&lt;watermark&gt;WYNAGRODZENIA&lt;/watermark&gt;
+
+grafton
+Gi Group Holding
+
+---
+
+
+## Page 50
+
+&lt;page_number&gt;50&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Finanse i rachunkowość
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Poznań</th>
+      <th colspan="3">Gdańsk</th>
+      <th colspan="3">Warszawa</th>
+      <th colspan="3">Wrocław</th>
+    </tr>
+    <tr>
+      <th colspan="3">2024</th>
+      <th colspan="3">2024</th>
+      <th colspan="3">2024</th>
+      <th colspan="3">2024</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="13"><b>P2P</b></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 800</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 800</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>8 000</td>
+      <td>9 500</td>
+      <td>8 500</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 500</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>8 000</td>
+      <td>9 500</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>10 000</td>
+      <td>12 000</td>
+      <td>10 500</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>14 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>12 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>15 000</td>
+      <td>18 000</td>
+      <td>17 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>18 000</td>
+      <td>18 000</td>
+      <td>21 000</td>
+      <td>19 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>18 000</td>
+    </tr>
+    <tr>
+      <td colspan="13"><b>R2R</b></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>7 000</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>6 500</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>7 000</td>
+      <td>9 000</td>
+      <td>8 500</td>
+      <td>7 000</td>
+      <td>9 000</td>
+      <td>8 500</td>
+      <td>9 000</td>
+      <td>12 000</td>
+      <td>10 000</td>
+      <td>7 000</td>
+      <td>9 000</td>
+      <td>8 500</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>9 500</td>
+      <td>12 000</td>
+      <td>11 000</td>
+      <td>9 000</td>
+      <td>12 000</td>
+      <td>11 000</td>
+      <td>13 000</td>
+      <td>15 000</td>
+      <td>13 500</td>
+      <td>9 000</td>
+      <td>12 000</td>
+      <td>11 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>14 000</td>
+      <td>17 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>17 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>22 000</td>
+      <td>19 500</td>
+      <td>14 000</td>
+      <td>17 000</td>
+      <td>16 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>17 000</td>
+      <td>20 000</td>
+      <td>19 000</td>
+      <td>17 000</td>
+      <td>20 000</td>
+      <td>19 000</td>
+      <td>20 000</td>
+      <td>25 000</td>
+      <td>22 000</td>
+      <td>16 000</td>
+      <td>20 000</td>
+      <td>18 000</td>
+    </tr>
+    <tr>
+      <td colspan="13"><b>OTC</b></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 800</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>7 000</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>6 000</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>8 000</td>
+      <td>9 500</td>
+      <td>8 500</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>8 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>8 000</td>
+      <td>9 500</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>10 000</td>
+      <td>12 000</td>
+      <td>11 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>14 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>12 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>15 000</td>
+      <td>18 000</td>
+      <td>17 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>18 000</td>
+      <td>18 000</td>
+      <td>21 000</td>
+      <td>19 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>18 000</td>
+    </tr>
+  </tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+G Group Holding
+
+---
+
+
+## Page 51
+
+&lt;page_number&gt;51&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Finanse i rachunkowość
+
+## Łódź
+### 2024
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">min</th>
+      <th colspan="2">max</th>
+      <th colspan="2">NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>P2P</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td></td>
+      <td>6 000</td>
+      <td></td>
+      <td>5 500</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td></td>
+      <td>8 000</td>
+      <td></td>
+      <td>7 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>8 500</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+      <td>9 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td></td>
+      <td>13 000</td>
+      <td></td>
+      <td>12 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>13 000</td>
+      <td></td>
+      <td>18 000</td>
+      <td></td>
+      <td>16 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>R2R</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 500</td>
+      <td></td>
+      <td>6 500</td>
+      <td></td>
+      <td>6 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>7 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+      <td>9 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>11 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>14 000</td>
+      <td></td>
+      <td>17 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>17 000</td>
+      <td></td>
+      <td>19 000</td>
+      <td></td>
+      <td>17 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OTC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 500</td>
+      <td></td>
+      <td>6 500</td>
+      <td></td>
+      <td>6 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td></td>
+      <td>9 000</td>
+      <td></td>
+      <td>7 500</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>9 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+      <td>10 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+      <td>12 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>14 000</td>
+      <td></td>
+      <td>18 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+## Katowice
+### 2024
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">min</th>
+      <th colspan="2">max</th>
+      <th colspan="2">NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>P2P</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td></td>
+      <td>6 000</td>
+      <td></td>
+      <td>5 500</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td></td>
+      <td>8 000</td>
+      <td></td>
+      <td>7 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>8 500</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+      <td>9 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td></td>
+      <td>13 000</td>
+      <td></td>
+      <td>12 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>13 000</td>
+      <td></td>
+      <td>18 000</td>
+      <td></td>
+      <td>16 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>R2R</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 500</td>
+      <td></td>
+      <td>6 500</td>
+      <td></td>
+      <td>6 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>7 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+      <td>9 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>11 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>14 000</td>
+      <td></td>
+      <td>17 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>17 000</td>
+      <td></td>
+      <td>19 000</td>
+      <td></td>
+      <td>17 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OTC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td></td>
+      <td>6 000</td>
+      <td></td>
+      <td>5 500</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td></td>
+      <td>9 000</td>
+      <td></td>
+      <td>7 500</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>9 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+      <td>10 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+      <td>12 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>14 000</td>
+      <td></td>
+      <td>18 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+## Kraków
+### 2024
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">min</th>
+      <th colspan="2">max</th>
+      <th colspan="2">NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>P2P</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td></td>
+      <td>6 000</td>
+      <td></td>
+      <td>5 500</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 500</td>
+      <td></td>
+      <td>8 000</td>
+      <td></td>
+      <td>7 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>8 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+      <td>9 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td></td>
+      <td>13 000</td>
+      <td></td>
+      <td>12 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>13 000</td>
+      <td></td>
+      <td>18 000</td>
+      <td></td>
+      <td>16 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>R2R</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 500</td>
+      <td></td>
+      <td>6 500</td>
+      <td></td>
+      <td>6 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>7 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+      <td>9 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>11 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>14 000</td>
+      <td></td>
+      <td>17 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>17 000</td>
+      <td></td>
+      <td>19 000</td>
+      <td></td>
+      <td>17 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OTC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td></td>
+      <td>6 000</td>
+      <td></td>
+      <td>5 500</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td></td>
+      <td>9 000</td>
+      <td></td>
+      <td>7 500</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>9 000</td>
+      <td></td>
+      <td>11 000</td>
+      <td></td>
+      <td>10 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+      <td>12 000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>14 000</td>
+      <td></td>
+      <td>18 000</td>
+      <td></td>
+      <td>14 000</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+Grafton
+Gi Group Holding
+
+---
+
+
+## Page 52
+
+&lt;page_number&gt;52&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Finanse i rachunkowość
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Poznań</th>
+      <th colspan="3">Gdańsk</th>
+      <th colspan="3">Warszawa</th>
+      <th colspan="3">Wrocław</th>
+    </tr>
+    <tr>
+      <th colspan="3">2024</th>
+      <th colspan="3">2024</th>
+      <th colspan="3">2024</th>
+      <th colspan="3">2024</th>
+    </tr>
+    <tr>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="12"><b>Travel and Expenses</b></td>
+    </tr>
+    <tr>
+      <td colspan="12">junior specialist</td>
+    </tr>
+    <tr>
+      <td>4 500</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>5 800</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>7 000</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>5 800</td>
+    </tr>
+    <tr>
+      <td colspan="12">specialist</td>
+    </tr>
+    <tr>
+      <td>5 500</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>6 500</td>
+      <td>7 500</td>
+      <td>6 800</td>
+      <td>8 000</td>
+      <td>9 500</td>
+      <td>8 500</td>
+      <td>6 500</td>
+      <td>7 500</td>
+      <td>6 800</td>
+    </tr>
+    <tr>
+      <td colspan="12">senior specialist</td>
+    </tr>
+    <tr>
+      <td>7 500</td>
+      <td>8 500</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>9 500</td>
+      <td>8 500</td>
+      <td>10 000</td>
+      <td>12 000</td>
+      <td>11 000</td>
+      <td>7 500</td>
+      <td>9 500</td>
+      <td>8 500</td>
+    </tr>
+    <tr>
+      <td colspan="12">team leader</td>
+    </tr>
+    <tr>
+      <td>10 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>10 500</td>
+      <td>14 000</td>
+      <td>12 000</td>
+      <td>14 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>10 500</td>
+      <td>14 000</td>
+      <td>12 000</td>
+    </tr>
+    <tr>
+      <td colspan="12">manager</td>
+    </tr>
+    <tr>
+      <td>13 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>17 000</td>
+      <td>15 000</td>
+      <td>18 000</td>
+      <td>21 000</td>
+      <td>19 000</td>
+      <td>13 000</td>
+      <td>17 000</td>
+      <td>15 000</td>
+    </tr>
+    <tr>
+      <td colspan="12"><b>Master Data Management</b></td>
+    </tr>
+    <tr>
+      <td colspan="12">junior specialist</td>
+    </tr>
+    <tr>
+      <td>4 500</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>5 500</td>
+      <td>7 000</td>
+      <td>6 000</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>5 500</td>
+      <td>7 000</td>
+      <td>6 000</td>
+    </tr>
+    <tr>
+      <td colspan="12">specialist</td>
+    </tr>
+    <tr>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>7 000</td>
+      <td>8 500</td>
+      <td>7 500</td>
+      <td>7 500</td>
+      <td>9 000</td>
+      <td>8 500</td>
+      <td>7 000</td>
+      <td>8 500</td>
+      <td>7 500</td>
+    </tr>
+    <tr>
+      <td colspan="12">senior specialist</td>
+    </tr>
+    <tr>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>8 500</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>10 000</td>
+      <td>12 000</td>
+      <td>10 500</td>
+      <td>8 500</td>
+      <td>10 500</td>
+      <td>9 000</td>
+    </tr>
+    <tr>
+      <td colspan="12">team leader</td>
+    </tr>
+    <tr>
+      <td>11 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+      <td>14 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+    </tr>
+    <tr>
+      <td colspan="12">manager</td>
+    </tr>
+    <tr>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>17 000</td>
+      <td>20 000</td>
+      <td>18 000</td>
+      <td>14 000</td>
+      <td>20 000</td>
+      <td>17 000</td>
+    </tr>
+    <tr>
+      <td colspan="12"><b>Financial Controlling</b></td>
+    </tr>
+    <tr>
+      <td colspan="12">junior specialist</td>
+    </tr>
+    <tr>
+      <td>6 500</td>
+      <td>7 500</td>
+      <td>7 000</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>8 000</td>
+      <td>9 000</td>
+      <td>9 000</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+    </tr>
+    <tr>
+      <td colspan="12">specialist</td>
+    </tr>
+    <tr>
+      <td>8 000</td>
+      <td>12 000</td>
+      <td>11 000</td>
+      <td>8 000</td>
+      <td>11 000</td>
+      <td>10 000</td>
+      <td>10 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>8 000</td>
+      <td>11 000</td>
+      <td>10 000</td>
+    </tr>
+    <tr>
+      <td colspan="12">senior specialist</td>
+    </tr>
+    <tr>
+      <td>12 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>11 000</td>
+      <td>14 000</td>
+      <td>14 000</td>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>11 000</td>
+      <td>14 000</td>
+      <td>14 000</td>
+    </tr>
+    <tr>
+      <td colspan="12">team leader</td>
+    </tr>
+    <tr>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>13 000</td>
+      <td>17 000</td>
+      <td>16 000</td>
+      <td>18 000</td>
+      <td>21 000</td>
+      <td>19 000</td>
+      <td>13 000</td>
+      <td>17 000</td>
+      <td>16 000</td>
+    </tr>
+    <tr>
+      <td colspan="12">manager</td>
+    </tr>
+    <tr>
+      <td>18 000</td>
+      <td>25 000</td>
+      <td>22 000</td>
+      <td>17 000</td>
+      <td>22 000</td>
+      <td>21 000</td>
+      <td>22 000</td>
+      <td>30 000</td>
+      <td>25 000</td>
+      <td>17 000</td>
+      <td>24 000</td>
+      <td>22 000</td>
+    </tr>
+  </tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+G Group Holding
+
+---
+
+
+## Page 53
+
+&lt;page_number&gt;53&lt;/page_number&gt;
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Finanse i rachunkowość
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="3">Łódź</th>
+      <th colspan="3">Katowice</th>
+      <th colspan="3">Kraków</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th colspan="3">2024</th>
+      <th colspan="3">2024</th>
+      <th colspan="3">2024</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="10"><strong>Travel and Expenses</strong></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 500</td>
+      <td>6 000</td>
+      <td>6 000</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>5 500</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>6 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>8 500</td>
+      <td>11 000</td>
+      <td>10 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>12 000</td>
+      <td>11 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>13 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>16 000</td>
+    </tr>
+    <tr>
+      <td colspan="10"><strong>Master Data Management</strong></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 500</td>
+      <td>6 500</td>
+      <td>6 000</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>5 800</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>5 500</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 500</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>10 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>8 000</td>
+      <td>11 000</td>
+      <td>9 500</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>13 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>11 000</td>
+      <td>15 000</td>
+      <td>13 500</td>
+      <td>11 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>15 000</td>
+      <td>18 000</td>
+      <td>16 500</td>
+      <td>15 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>16 000</td>
+    </tr>
+    <tr>
+      <td colspan="10"><strong>Financial Controlling</strong></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>6 200</td>
+      <td>5 800</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>5 500</td>
+      <td>7 000</td>
+      <td>6 500</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>7 000</td>
+      <td>10 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>10 000</td>
+      <td>8 500</td>
+      <td>7 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>12 000</td>
+      <td>14 000</td>
+      <td>14 000</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+      <td>9 000</td>
+      <td>13 000</td>
+      <td>10 500</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>13 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>17 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>17 000</td>
+      <td>14 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>17 000</td>
+      <td>17 000</td>
+      <td>22 000</td>
+      <td>18 000</td>
+      <td>17 000</td>
+      <td>23 000</td>
+      <td>21 000</td>
+    </tr>
+  </tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 54
+
+&lt;page_number&gt;54&lt;/page_number&gt;
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Finanse i rachunkowość
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="3">Poznań</th>
+      <th colspan="3">Gdańsk</th>
+      <th colspan="3">Warszawa</th>
+      <th colspan="3">Wrocław</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th colspan="2">2024</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th colspan="2">2024</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th colspan="2">2024</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="16"><strong>Billing</strong></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>6 000</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>6 000</td>
+      <td>7 000</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>6 000</td>
+      <td>6 000</td>
+      <td>6 000</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>8 500</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 500</td>
+      <td>7 500</td>
+      <td>7 500</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>9 000</td>
+      <td>10 000</td>
+      <td>9 500</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 500</td>
+      <td>10 000</td>
+      <td>12 000</td>
+      <td>11 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 500</td>
+      <td>10 000</td>
+      <td>9 500</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+      <td>14 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>15 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>14 000</td>
+      <td>17 000</td>
+      <td>16 000</td>
+      <td>17 000</td>
+      <td>20 000</td>
+      <td>18 000</td>
+      <td>14 000</td>
+      <td>17 000</td>
+      <td>16 000</td>
+      <td>16 000</td>
+      <td>16 000</td>
+    </tr>
+    <tr>
+      <td colspan="16"><strong>Łódź</strong></td>
+    </tr>
+    <tr>
+      <td colspan="16"><strong>Katowice</strong></td>
+    </tr>
+    <tr>
+      <td colspan="16"><strong>Kraków</strong></td>
+    </tr>
+    <tr>
+      <td colspan="16">2024</td>
+    </tr>
+    <tr>
+      <td colspan="16">2024</td>
+    </tr>
+    <tr>
+      <td colspan="16">2024</td>
+    </tr>
+    <tr>
+      <td colspan="16"><strong>Billing</strong></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 500</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>6 000</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>5 500</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>5 500</td>
+      <td>5 500</td>
+      <td>5 500</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 500</td>
+      <td>8 500</td>
+      <td>7 000</td>
+      <td>6 000</td>
+      <td>7 500</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>7 000</td>
+      <td>7 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>8 500</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>7 500</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>10 500</td>
+      <td>14 000</td>
+      <td>12 000</td>
+      <td>10 000</td>
+      <td>14 500</td>
+      <td>13 000</td>
+      <td>11 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>11 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>14 000</td>
+      <td>14 000</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>14 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>14 500</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>16 000</td>
+      <td>16 000</td>
+      <td>16 000</td>
+    </tr>
+  </tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 55
+
+&lt;page_number&gt;55&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Finanse i rachunkowość
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Poznań</th>
+      <th colspan="3">Gdańsk</th>
+      <th colspan="3">Warszawa</th>
+      <th colspan="3">Wrocław</th>
+    </tr>
+    <tr>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+    </tr>
+    <tr>
+      <th></th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Independent Accountant</td>
+      <td>9 000</td>
+      <td>14 000</td>
+      <td>11 000</td>
+      <td>10 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>11 000</td>
+      <td>15 000</td>
+      <td>12 000</td>
+      <td>10 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+    </tr>
+    <tr>
+      <td>Chief Accountant</td>
+      <td>16 000</td>
+      <td>25 000</td>
+      <td>20 000</td>
+      <td>16 000</td>
+      <td>26 000</td>
+      <td>20 000</td>
+      <td>18 000</td>
+      <td>25 000</td>
+      <td>22 000</td>
+      <td>16 000</td>
+      <td>26 000</td>
+      <td>20 000</td>
+    </tr>
+    <tr>
+      <td>Business Controller</td>
+      <td>12 000</td>
+      <td>18 000</td>
+      <td>15 000</td>
+      <td>12 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>23 000</td>
+      <td>17 000</td>
+      <td>12 000</td>
+      <td>20 000</td>
+      <td>17 000</td>
+    </tr>
+    <tr>
+      <td>Accounting Manager</td>
+      <td>16 000</td>
+      <td>25 000</td>
+      <td>20 000</td>
+      <td>18 000</td>
+      <td>25 000</td>
+      <td>20 000</td>
+      <td>22 000</td>
+      <td>30 000</td>
+      <td>25 000</td>
+      <td>18 000</td>
+      <td>25 000</td>
+      <td>22 000</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Łódź</th>
+      <th colspan="3">Katowice</th>
+      <th colspan="3">Kraków</th>
+    </tr>
+    <tr>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+      <td colspan="3">2024</td>
+    </tr>
+    <tr>
+      <th></th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+      <th>min</th>
+      <th>max</th>
+      <th>NO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Independent Accountant</td>
+      <td>9 000</td>
+      <td>13 000</td>
+      <td>11 000</td>
+      <td>9 000</td>
+      <td>13 000</td>
+      <td>11 000</td>
+      <td>8 000</td>
+      <td>14 000</td>
+      <td>12 000</td>
+    </tr>
+    <tr>
+      <td>Chief Accountant</td>
+      <td>17 000</td>
+      <td>23 000</td>
+      <td>20 000</td>
+      <td>13 000</td>
+      <td>23 000</td>
+      <td>17 000</td>
+      <td>12 000</td>
+      <td>26 000</td>
+      <td>19 000</td>
+    </tr>
+    <tr>
+      <td>Business Controller</td>
+      <td>10 000</td>
+      <td>16 000</td>
+      <td>14 500</td>
+      <td>11 000</td>
+      <td>20 000</td>
+      <td>16 000</td>
+      <td>10 000</td>
+      <td>20 000</td>
+      <td>18 000</td>
+    </tr>
+    <tr>
+      <td>Accounting Manager</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>18 000</td>
+      <td>15 000</td>
+      <td>25 000</td>
+      <td>20 000</td>
+      <td>16 000</td>
+      <td>27 000</td>
+      <td>22 000</td>
+    </tr>
+  </tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;graffton logo&lt;/img&gt;
+Grafton
+Gi Group Holding
+
+---
+
+
+## Page 56
+
+&lt;page_number&gt;56&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Stack of coins icon&lt;/img&gt; Wynagrodzenia
+
+WYNAGRODZENIA
+
+Human Resources
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+Gi Group Holding
+
+---
+
+
+## Page 57
+
+&lt;page_number&gt;57&lt;/page_number&gt;
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Human Resources
+
+|  | Poznań |  | Gdańsk |  | Warszawa |  | Wrocław |  |
+|---|---|---|---|---|---|---|---|---|
+|  | **2024** |  | **2024** |  | **2024** |  | **2024** |  |
+|  | min | max | NO | min | max | NO | min | max | NO | min | max | NO |
+| **Compensation & Benefits** |  |  |  |  |  |  |  |  |  |  |  |  |
+| junior specialist | 5 500 | 6 000 | 5 500 | 5 500 | 6 500 | 6 000 | 6 000 | 7 500 | 7 000 | 5 500 | 6 500 | 6 000 |
+| specialist | 6 000 | 9 000 | 8 000 | 6 000 | 9 000 | 8 000 | 8 000 | 9 500 | 9 000 | 6 000 | 9 000 | 8 000 |
+| senior specialist | 7 500 | 10 000 | 9 000 | 8 000 | 10 000 | 9 000 | 10 000 | 14 000 | 12 000 | 8 000 | 10 000 | 9 000 |
+| team leader | 12 000 | 14 000 | 13 000 | 12 000 | 15 000 | 13 000 | 14 000 | 17 000 | 15 000 | 12 000 | 14 000 | 13 000 |
+| manager | 14 000 | 17 000 | 16 000 | 15 000 | 18 000 | 16 500 | 16 000 | 19 000 | 18 000 | 15 000 | 18 000 | 16 500 |
+| **HR Administration & Reporting** |  |  |  |  |  |  |  |  |  |  |  |  |
+| junior specialist | 5 000 | 6 000 | 5 500 | 5 000 | 7 000 | 6 000 | 6 000 | 7 000 | 6 500 | 5 000 | 7 000 | 6 000 |
+| specialist | 6 000 | 8 000 | 7 000 | 6 500 | 8 500 | 7 000 | 7 500 | 9 500 | 9 000 | 6 500 | 8 500 | 7 000 |
+| senior specialist | 8 000 | 9 500 | 8 500 | 8 500 | 10 000 | 9 000 | 10 000 | 12 000 | 11 000 | 8 500 | 10 000 | 9 000 |
+| team leader | 10 000 | 13 000 | 11 000 | 10 500 | 14 000 | 12 000 | 12 000 | 16 000 | 14 000 | 10 500 | 14 000 | 12 000 |
+| manager | 13 000 | 16 000 | 15 000 | 13 000 | 18 000 | 16 000 | 15 000 | 19 000 | 17 000 | 13 000 | 18 000 | 16 000 |
+| **Talent Acquisition, Employer Branding** |  |  |  |  |  |  |  |  |  |  |  |  |
+| junior specialist | 5 000 | 6 000 | 6 000 | 5 000 | 6 500 | 6 000 | 6 000 | 8 000 | 7 000 | 5 000 | 6 500 | 6 000 |
+| specialist | 6 000 | 9 000 | 8 000 | 6 500 | 9 000 | 8 000 | 9 000 | 11 000 | 10 000 | 6 500 | 9 500 | 8 500 |
+| senior specialist | 8 000 | 12 500 | 11 000 | 9 000 | 14 000 | 12 000 | 12 000 | 14 000 | 13 000 | 9 000 | 14 000 | 12 000 |
+| team leader | 12 000 | 16 000 | 14 000 | 13 000 | 16 000 | 14 000 | 14 000 | 18 000 | 16 000 | 13 000 | 16 000 | 14 000 |
+| manager | 16 000 | 20 000 | 18 000 | 15 000 | 20 000 | 18 000 | 18 000 | 22 000 | 20 000 | 15 000 | 21 000 | 18 000 |
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 58
+
+&lt;page_number&gt;58&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Human Resources
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Łódź</th>
+<th colspan="3">Katowice</th>
+<th colspan="3">Kraków</th>
+</tr>
+<tr>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+</tr>
+<tr>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="10"><strong>Compensation & Benefits</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 500</td>
+<td>6 000</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 500</td>
+<td>5 300</td>
+<td>6 500</td>
+<td>5 700</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 500</td>
+<td>9 000</td>
+<td>7 500</td>
+<td>6 000</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>9 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>8 000</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>11 000</td>
+<td>9 500</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>12 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>11 000</td>
+<td>14 000</td>
+<td>12 500</td>
+<td>11 000</td>
+<td>15 000</td>
+<td>13 500</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>14 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>15 000</td>
+<td>19 000</td>
+<td>17 000</td>
+</tr>
+<tr>
+<td colspan="10"><strong>HR Administration & Reporting</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 800</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 700</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 500</td>
+<td>8 500</td>
+<td>7 500</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>8 500</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>8 000</td>
+<td>10 500</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>11 000</td>
+<td>9 500</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>11 000</td>
+<td>14 000</td>
+<td>12 000</td>
+<td>10 000</td>
+<td>14 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>15 000</td>
+<td>13 500</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>13 000</td>
+<td>15 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>15 000</td>
+<td>19 000</td>
+<td>17 000</td>
+</tr>
+<tr>
+<td colspan="10"><strong>Talent Acquisition, Employer Branding</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>6 000</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 500</td>
+<td>8 500</td>
+<td>8 000</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 500</td>
+<td>6 500</td>
+<td>9 000</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>10 500</td>
+<td>8 000</td>
+<td>12 000</td>
+<td>10 500</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>11 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>13 500</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>15 000</td>
+<td>20 000</td>
+<td>18 000</td>
+<td>16 000</td>
+<td>20 000</td>
+<td>18 000</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;graffton logo&lt;/img&gt;
+Grafton
+Gi Group Holding
+
+---
+
+
+## Page 59
+
+&lt;page_number&gt;59&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Human Resources
+
+WYNAGRODZENIE
+
+<table>
+<thead>
+<tr>
+<th colspan="4">Poznań</th>
+<th colspan="4">Gdańsk</th>
+<th colspan="4">Warszawa</th>
+<th colspan="4">Wrocław</th>
+</tr>
+<tr>
+<td colspan="4">2024</td>
+<td colspan="4">2024</td>
+<td colspan="4">2024</td>
+<td colspan="4">2024</td>
+</tr>
+<tr>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="16"><strong>Payroll</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 500</td>
+<td></td>
+<td>5 500</td>
+<td>7 000</td>
+<td>6 000</td>
+<td></td>
+<td>6 000</td>
+<td>7 000</td>
+<td>6 500</td>
+<td></td>
+<td>5 500</td>
+<td>7 000</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 500</td>
+<td>9 000</td>
+<td>7 000</td>
+<td></td>
+<td>7 000</td>
+<td>9 000</td>
+<td>8 000</td>
+<td></td>
+<td>8 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td></td>
+<td>7 000</td>
+<td>9 000</td>
+<td>8 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>9 000</td>
+<td>11 000</td>
+<td>9 500</td>
+<td></td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td></td>
+<td>12 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td></td>
+<td>9 000</td>
+<td>12 000</td>
+<td>11 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>11 000</td>
+<td>14 000</td>
+<td>12 000</td>
+<td></td>
+<td>12 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td></td>
+<td>15 000</td>
+<td>18 000</td>
+<td>16 000</td>
+<td></td>
+<td>12 000</td>
+<td>15 000</td>
+<td>13 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td></td>
+<td>15 000</td>
+<td>20 000</td>
+<td>17 000</td>
+<td></td>
+<td>17 000</td>
+<td>21 000</td>
+<td>19 000</td>
+<td></td>
+<td>15 000</td>
+<td>21 000</td>
+<td>17 000</td>
+</tr>
+<tr>
+<td colspan="16"><strong>HR Business Partner</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>9 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td></td>
+<td>8 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td></td>
+<td>8 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td></td>
+<td>8 000</td>
+<td>11 000</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td>speciaclist</td>
+<td>11 000</td>
+<td>15 000</td>
+<td>14 000</td>
+<td></td>
+<td>12 000</td>
+<td>16 000</td>
+<td>14 000</td>
+<td></td>
+<td>12 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td></td>
+<td>12 000</td>
+<td>16 000</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>15 000</td>
+<td>18 000</td>
+<td>17 000</td>
+<td></td>
+<td>16 000</td>
+<td>20 000</td>
+<td>18 000</td>
+<td></td>
+<td>18 000</td>
+<td>24 000</td>
+<td>20 000</td>
+<td></td>
+<td>16 000</td>
+<td>20 000</td>
+<td>18 000</td>
+</tr>
+<tr>
+<td><strong>HR Manager</strong></td>
+<td>16 000</td>
+<td>22 000</td>
+<td>18 000</td>
+<td></td>
+<td>16 000</td>
+<td>22 000</td>
+<td>18 000</td>
+<td></td>
+<td>18 000</td>
+<td>25 000</td>
+<td>22 000</td>
+<td></td>
+<td>16 000</td>
+<td>22 000</td>
+<td>20 000</td>
+</tr>
+<tr>
+<td><strong>HR Director</strong></td>
+<td>22 000</td>
+<td>30 000</td>
+<td>26 000</td>
+<td></td>
+<td>22 000</td>
+<td>30 000</td>
+<td>25 000</td>
+<td></td>
+<td>24 000</td>
+<td>30 000</td>
+<td>27 000</td>
+<td></td>
+<td>22 000</td>
+<td>30 000</td>
+<td>26 000</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+Grafton
+GI Group Holding
+
+---
+
+
+## Page 60
+
+&lt;page_number&gt;60&lt;/page_number&gt;
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Human Resources
+
+BUSINESS SERVICES 2024
+WYNAgRODZENIE
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="3">Łódź</th>
+      <th colspan="3">Katowice</th>
+      <th colspan="3">Kraków</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th colspan="2">2024</th>
+      <th>NO</th>
+      <th colspan="2">2024</th>
+      <th>NO</th>
+      <th colspan="2">2024</th>
+      <th>NO</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>min</th>
+      <th>max</th>
+      <th></th>
+      <th>min</th>
+      <th>max</th>
+      <th></th>
+      <th>min</th>
+      <th>max</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Payroll</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>5 200</td>
+      <td>6 500</td>
+      <td>5 700</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>5 800</td>
+      <td>5 000</td>
+      <td>6 500</td>
+      <td>6 000</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>6 000</td>
+      <td>8 500</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>8 000</td>
+      <td>7 000</td>
+      <td>6 500</td>
+      <td>8 500</td>
+      <td>7 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>8 000</td>
+      <td>11 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>11 000</td>
+      <td>10 000</td>
+      <td>8 500</td>
+      <td>12 000</td>
+      <td>10 000</td>
+    </tr>
+    <tr>
+      <td>team leader</td>
+      <td>11 000</td>
+      <td>14 000</td>
+      <td>13 000</td>
+      <td>11 000</td>
+      <td>15 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>16 000</td>
+      <td>13 500</td>
+    </tr>
+    <tr>
+      <td>manager</td>
+      <td>13 000</td>
+      <td>17 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>17 000</td>
+      <td>16 000</td>
+      <td>20 000</td>
+      <td>17 500</td>
+    </tr>
+    <tr>
+      <td><strong>HR Business Partner</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>junior specialist</td>
+      <td>8 500</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>8 000</td>
+      <td>10 000</td>
+      <td>9 000</td>
+      <td>8 500</td>
+      <td>10 000</td>
+      <td>9 000</td>
+    </tr>
+    <tr>
+      <td>specialist</td>
+      <td>9 000</td>
+      <td>13 000</td>
+      <td>12 000</td>
+      <td>10 000</td>
+      <td>14 000</td>
+      <td>12 000</td>
+      <td>10 000</td>
+      <td>15 000</td>
+      <td>12 000</td>
+    </tr>
+    <tr>
+      <td>senior specialist</td>
+      <td>12 000</td>
+      <td>15 000</td>
+      <td>14 000</td>
+      <td>14 000</td>
+      <td>17 000</td>
+      <td>16 000</td>
+      <td>15 000</td>
+      <td>19 000</td>
+      <td>17 000</td>
+    </tr>
+    <tr>
+      <td><strong>HR Manager</strong></td>
+      <td>16 000</td>
+      <td>22 000</td>
+      <td>18 000</td>
+      <td>15 000</td>
+      <td>22 000</td>
+      <td>18 000</td>
+      <td>16 000</td>
+      <td>25 000</td>
+      <td>22 000</td>
+    </tr>
+    <tr>
+      <td><strong>HR Director</strong></td>
+      <td>20 000</td>
+      <td>28 000</td>
+      <td>25 000</td>
+      <td>18 000</td>
+      <td>30 000</td>
+      <td>25 000</td>
+      <td>20 000</td>
+      <td>30 000</td>
+      <td>25 000</td>
+    </tr>
+  </tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 61
+
+&lt;page_number&gt;61&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Stack of coins icon&lt;/img&gt; Wynagrodzenia
+
+Wynagrodzenia
+
+I Procesy IT
+
+grafton
+Gi Group Holding
+
+---
+
+
+## Page 62
+
+&lt;page_number&gt;62&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+WYNAGRODZENIE
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Procesy IT
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Poznań</th>
+<th colspan="3">Gdańsk</th>
+<th colspan="3">Warszawa</th>
+<th colspan="3">Wrocław</th>
+</tr>
+<tr>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+</tr>
+<tr>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="12"><strong>Service Desk</strong></td>
+</tr>
+<tr>
+<td colspan="12">Technical Support 1st Line</td>
+</tr>
+<tr>
+<td>6 500</td>
+<td>8 000</td>
+<td>8 000</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 500</td>
+<td>6 500</td>
+<td>10 500</td>
+<td>8 500</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 500</td>
+</tr>
+<tr>
+<td colspan="12">Technical Support 2nd Line</td>
+</tr>
+<tr>
+<td>8 000</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>10 500</td>
+<td>15 000</td>
+<td>12 500</td>
+<td>8 000</td>
+<td>11 000</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td colspan="12">Technical Support 3rd Line</td>
+</tr>
+<tr>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 000</td>
+<td>15 000</td>
+<td>20 000</td>
+<td>18 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>12 000</td>
+</tr>
+<tr>
+<td colspan="12">Service Desk Leader</td>
+</tr>
+<tr>
+<td>13 000</td>
+<td>16 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>14 000</td>
+<td>21 000</td>
+<td>23 000</td>
+<td>22 000</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td colspan="12">Service Desk Manager</td>
+</tr>
+<tr>
+<td>16 500</td>
+<td>20 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>20 000</td>
+<td>16 000</td>
+<td>23 000</td>
+<td>25 000</td>
+<td>24 000</td>
+<td>15 000</td>
+<td>20 000</td>
+<td>16 000</td>
+</tr>
+<tr>
+<td colspan="12"><strong>Process Management (ITIL)</strong></td>
+</tr>
+<tr>
+<td colspan="12">Incident Manager</td>
+</tr>
+<tr>
+<td>12 000</td>
+<td>16 000</td>
+<td>14 000</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>14 000</td>
+<td>18 000</td>
+<td>26 000</td>
+<td>22 000</td>
+<td>11 000</td>
+<td>17 000</td>
+<td>16 000</td>
+</tr>
+<tr>
+<td colspan="12">Problem Manager</td>
+</tr>
+<tr>
+<td>12 000</td>
+<td>16 000</td>
+<td>14 000</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>13 000</td>
+<td>18 000</td>
+<td>26 000</td>
+<td>22 000</td>
+<td>11 000</td>
+<td>17 000</td>
+<td>16 000</td>
+</tr>
+<tr>
+<td colspan="12">Change Manager</td>
+</tr>
+<tr>
+<td>13 000</td>
+<td>20 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>20 000</td>
+<td>15 000</td>
+<td>24 000</td>
+<td>30 000</td>
+<td>27 000</td>
+<td>14 000</td>
+<td>20 000</td>
+<td>16 000</td>
+</tr>
+<tr>
+<td colspan="12">Service Delivery manager</td>
+</tr>
+<tr>
+<td>18 000</td>
+<td>22 000</td>
+<td>19 000</td>
+<td>16 000</td>
+<td>22 000</td>
+<td>18 000</td>
+<td>18 000</td>
+<td>26 000</td>
+<td>22 000</td>
+<td>12 000</td>
+<td>23 000</td>
+<td>19 000</td>
+</tr>
+<tr>
+<td colspan="12"><strong>Project Management</strong></td>
+</tr>
+<tr>
+<td colspan="12">PMO</td>
+</tr>
+<tr>
+<td>18 500</td>
+<td>22 500</td>
+<td>19 000</td>
+<td>18 000</td>
+<td>22 000</td>
+<td>18 000</td>
+<td>14 000</td>
+<td>19 000</td>
+<td>17 000</td>
+<td>12 000</td>
+<td>18 000</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td colspan="12">Project Manager</td>
+</tr>
+<tr>
+<td>15 000</td>
+<td>19 000</td>
+<td>16 000</td>
+<td>14 000</td>
+<td>19 000</td>
+<td>15 000</td>
+<td>21 000</td>
+<td>25 000</td>
+<td>23 000</td>
+<td>15 000</td>
+<td>22 000</td>
+<td>18 000</td>
+</tr>
+<tr>
+<td colspan="12">Program Manager</td>
+</tr>
+<tr>
+<td>18 000</td>
+<td>22 000</td>
+<td>20 000</td>
+<td>15 000</td>
+<td>22 000</td>
+<td>17 000</td>
+<td>26 000</td>
+<td>30 000</td>
+<td>28 000</td>
+<td>15 000</td>
+<td>22 000</td>
+<td>18 000</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 63
+
+&lt;page_number&gt;63&lt;/page_number&gt;
+
+&lt;img&gt;Stacked circles icon&lt;/img&gt;
+# Procesy IT
+
+|  | Łódź | Katowice | Kraków |
+|---|---|---|---|
+|  | **2024** | **2024** | **2024** |
+|  | min | max | NO | min | max | NO | min | max | NO |
+| **Service Desk** |  |  |  |  |  |  |  |  |  |
+| Technical Support 1st Line | 5 500 | 7 000 | 6 500 | 5 500 | 7 500 | 6 500 | 5 500 | 8 000 | 7 000 |
+| Technical Support 2nd Line | 7 500 | 9 000 | 8 000 | 7 500 | 10 000 | 8 500 | 7 000 | 10 000 | 8 500 |
+| Technical Support 3nd Line | 8 500 | 12 000 | 11 000 | 10 000 | 13 000 | 12 000 | 8 500 | 13 000 | 9 500 |
+| Service Desk Leader | 12 000 | 16 000 | 14 000 | 13 000 | 15 500 | 14 000 | 12 000 | 16 000 | 14 000 |
+| Service Desk Manager | 15 000 | 19 000 | 16 000 | 15 500 | 20 000 | 17 000 | 15 000 | 20 000 | 17 000 |
+| **Process Management (ITIL)** |  |  |  |  |  |  |  |  |  |
+| Incident Manager | 12 000 | 16 000 | 14 000 | 12 000 | 16 000 | 14 000 | 12 000 | 17 000 | 14 000 |
+| Problem Manager | 12 000 | 16 000 | 13 000 | 12 000 | 16 000 | 14 000 | 12 000 | 17 000 | 14 000 |
+| Change Manager | 13 000 | 20 000 | 15 000 | 13 000 | 20 000 | 17 000 | 15 000 | 19 000 | 16 000 |
+| Service Delivery manager | 14 500 | 20 000 | 18 000 | 15 000 | 25 000 | 18 000 | 18 000 | 25 000 | 20 000 |
+| **Project Management** |  |  |  |  |  |  |  |  |  |
+| PMO | 13 000 | 18 000 | 16 000 | 13 000 | 18 000 | 16 000 | 13 000 | 18 000 | 15 000 |
+| Project Manager | 12 000 | 17 000 | 15 000 | 15 000 | 25 000 | 20 000 | 17 000 | 25 000 | 20 000 |
+| Program Manager | 15 000 | 21 000 | 18 000 | 20 000 | 27 000 | 25 000 | 20 000 | 27 000 | 25 000 |
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 64
+
+&lt;page_number&gt;64&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Procesy IT
+
+WYNAGRODZENIE
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Poznań</th>
+<th colspan="3">Gdańsk</th>
+<th colspan="3">Warszawa</th>
+<th colspan="3">Wrocław</th>
+</tr>
+<tr>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+</tr>
+<tr>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="12"><strong>SAP</strong></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td>SAP Functional Consultant (FI/CO, HCM, PP, MM, SD)</td>
+<td>16 500</td>
+<td>23 000</td>
+<td>20 000</td>
+<td>17 000</td>
+<td>22 000</td>
+<td>20 000</td>
+<td>30 000</td>
+<td>26 000</td>
+<td>15 000</td>
+<td>22 000</td>
+<td>20 000</td>
+</tr>
+<tr>
+<td>SAP Support Consultant/ Analyst</td>
+<td>11 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>10 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>13 500</td>
+<td>15 000</td>
+<td>17 000</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td>SAP Basis Consultant</td>
+<td>14 500</td>
+<td>16 500</td>
+<td>15 000</td>
+<td>14 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>18 000</td>
+<td>26 000</td>
+<td>22 000</td>
+<td>13 000</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td>Integration Consultant (PI)</td>
+<td>12 500</td>
+<td>16 500</td>
+<td>14 000</td>
+<td>12 000</td>
+<td>16 000</td>
+<td>14 000</td>
+<td>22 000</td>
+<td>30 000</td>
+<td>26 000</td>
+<td>13 000</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td>SAP Team Leader</td>
+<td>19 000</td>
+<td>24 000</td>
+<td>20 000</td>
+<td>16 000</td>
+<td>24 000</td>
+<td>20 000</td>
+<td>22 000</td>
+<td>28 000</td>
+<td>26 000</td>
+<td>15 000</td>
+<td>20 000</td>
+</tr>
+<tr>
+<td>SAP Manager</td>
+<td>22 000</td>
+<td>28 000</td>
+<td>24 000</td>
+<td>22 000</td>
+<td>28 000</td>
+<td>24 000</td>
+<td>28 000</td>
+<td>35 000</td>
+<td>32 000</td>
+<td>22 000</td>
+<td>24 000</td>
+</tr>
+<tr>
+<td>SAP Center Head</td>
+<td>31 000</td>
+<td>46 000</td>
+<td>35 000</td>
+<td>30 000</td>
+<td>45 000</td>
+<td>35 000</td>
+<td>33 000</td>
+<td>40 000</td>
+<td>36 000</td>
+<td>30 000</td>
+<td>45 000</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td colspan="12"><strong>Applications Management</strong></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td>Applications Support Specialist (support)</td>
+<td>10 000</td>
+<td>13 500</td>
+<td>10 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>10 000</td>
+<td>12 000</td>
+<td>17 000</td>
+<td>14 000</td>
+<td>10 000</td>
+<td>13 000</td>
+</tr>
+<tr>
+<td>Applications Support Engineer (support/development)</td>
+<td>11 000</td>
+<td>14 500</td>
+<td>13 000</td>
+<td>11 000</td>
+<td>14 000</td>
+<td>12 000</td>
+<td>17 000</td>
+<td>22 000</td>
+<td>18 000</td>
+<td>10 000</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td>SharePoint Engineer</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>12 000</td>
+<td>10 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>22 000</td>
+<td>27 000</td>
+<td>25 000</td>
+<td>10 000</td>
+<td>13 000</td>
+</tr>
+<tr>
+<td>Application Management Lead</td>
+<td>15 000</td>
+<td>18 500</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>19 000</td>
+<td>17 000</td>
+<td>22 000</td>
+<td>26 000</td>
+<td>24 000</td>
+<td>14 000</td>
+<td>17 000</td>
+</tr>
+<tr>
+<td>Application Support Manager</td>
+<td>19 000</td>
+<td>23 000</td>
+<td>21 000</td>
+<td>17 000</td>
+<td>23 000</td>
+<td>20 000</td>
+<td>24 000</td>
+<td>31 000</td>
+<td>27 000</td>
+<td>16 000</td>
+<td>20 000</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+Grafton
+GI Group Holding
+
+---
+
+
+## Page 65
+
+&lt;page_number&gt;65&lt;/page_number&gt;
+
+&lt;img&gt;Stacked red circles icon&lt;/img&gt;
+# Procesy IT
+
+|  | Łódź | Katowice | Kraków |
+|---|---|---|---|
+|  | **2024** | **2024** | **2024** |
+|  | min | max | NO | min | max | NO | min | max | NO |
+| **SAP** |  |  |  |  |  |  |  |  |  |
+| SAP Funtional Consultant (FI/CO, HCM, PP, MM, SD) | 14 000 | 19 000 | 18 000 | 17 000 | 23 000 | 20 000 | 15 000 | 26 000 | 17 000 |
+| SAP Support Consultant/ Analyst | 11 000 | 15 000 | 13 000 | 12000 | 17 000 | 14 000 | 12 000 | 18 000 | 16 000 |
+| SAP Basis Consultant | 14 000 | 17 000 | 15 000 | 16000 | 23 000 | 20 000 | 14 000 | 22 000 | 17 000 |
+| Integration Consultant (PI) | 16 000 | 24000 | 18 000 | 16 000 | 22 000 | 20 000 | 17 000 | 24 000 | 18 000 |
+| SAP Team Leader | 19 000 | 26 000 | 22 000 | 19 000 | 25 000 | 23 000 | 17 000 | 25 000 | 18 000 |
+| SAP Manager | 22 000 | 28 000 | 24 000 | 25 000 | 30 000 | 27 000 | 22 000 | 28 000 | 25 000 |
+| SAP Center Head | 30 000 | 45 000 | 35 000 | 28 000 | 40 000 | 35 000 | 28 000 | 38 000 | 30000 |
+| **Applications Management** |  |  |  |  |  |  |  |  |  |
+| Applications Support Specialist (support) | 10 000 | 13 000 | 10 000 | 10 000 | 14 000 | 12 000 | 9 000 | 13 000 | 11 000 |
+| Applications Support Engineer (support/development) | 11 000 | 14 000 | 12 000 | 13 000 | 18 000 | 14 000 | 10 000 | 17 000 | 13 000 |
+| SharePoint Engineer | 10 000 | 15 000 | 13 000 | 12 000 | 16 000 | 14 000 | 11 000 | 16 000 | 13 000 |
+| Application Management Lead | 15 000 | 19 000 | 17 000 | 15 000 | 19 000 | 17 000 | 15 000 | 20000 | 18 000 |
+| Application Support Manager | 17 000 | 23 000 | 20 000 | 17 000 | 22 000 | 20 000 | 18 000 | 25 000 | 21 000 |
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 66
+
+&lt;page_number&gt;66&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Stack of coins icon&lt;/img&gt; Wynagrodzenia
+
+Wynagrodzenia
+
+I Marketing
+
+&lt;img&gt;Person icon with 4k&lt;/img&gt;
+&lt;img&gt;Heart icon with 5k&lt;/img&gt;
+&lt;img&gt;Speech bubble icon with 11&lt;/img&gt;
+
+grafton
+Gi Group Holding
+
+---
+
+
+## Page 67
+
+&lt;page_number&gt;67&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Marketing
+
+WYNAGRODZENIE
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Poznań</th>
+<th colspan="3">Gdańsk</th>
+<th colspan="3">Warszawa</th>
+<th colspan="3">Wrocław</th>
+</tr>
+<tr>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+</tr>
+<tr>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="12"><strong>Visual graphic</strong></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 500</td>
+<td>6 000</td>
+<td>7 000</td>
+<td>6 000</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>7 000</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 000</td>
+<td>7 500</td>
+<td>7 000</td>
+<td>7 000</td>
+<td>9 000</td>
+<td>7 000</td>
+<td>7 000</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>9 000</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>7 500</td>
+<td>9 500</td>
+<td>8 500</td>
+<td>9 000</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>9 000</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>10 000</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>10 000</td>
+<td>12 500</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>12 000</td>
+<td>10 000</td>
+<td>11 000</td>
+<td>12 000</td>
+<td>10 000</td>
+<td>12 000</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td colspan="12"><strong>Marketing Bids (proposals, content, language)</strong></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 500</td>
+<td>6 000</td>
+<td>5 500</td>
+<td>6 000</td>
+<td>7 000</td>
+<td>6 000</td>
+<td>7 000</td>
+<td>7 000</td>
+<td>6 000</td>
+<td>7 000</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 500</td>
+<td>8 500</td>
+<td>7 000</td>
+<td>7 000</td>
+<td>8 500</td>
+<td>7 500</td>
+<td>7 000</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>8 500</td>
+<td>7 500</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>8 500</td>
+<td>10 000</td>
+<td>9 500</td>
+<td>9 000</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>9 000</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>10 000</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>10 000</td>
+<td>12 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 000</td>
+<td>11 000</td>
+<td>13 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>13 000</td>
+<td>17 000</td>
+<td>15 000</td>
+<td>13 000</td>
+<td>16 500</td>
+<td>15 500</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>13 000</td>
+<td>16 500</td>
+<td>15 500</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td colspan="12"><strong>Marketing (brand management, trade marketing, events&promotion)</strong></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 500</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>5 500</td>
+<td>6 500</td>
+<td>6 000</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>5 500</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>9 000</td>
+<td>7 500</td>
+<td>8 500</td>
+<td>10 000</td>
+<td>9 500</td>
+<td>6 500</td>
+<td>7 500</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>8 500</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>9 000</td>
+<td>10 500</td>
+<td>10 000</td>
+<td>11 000</td>
+<td>12 000</td>
+<td>9 000</td>
+<td>10 500</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>11 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>10 500</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>13 000</td>
+<td>14 500</td>
+<td>10 500</td>
+<td>14 000</td>
+<td>13 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>14 000</td>
+<td>17 000</td>
+<td>15 500</td>
+<td>14 000</td>
+<td>17 000</td>
+<td>16 000</td>
+<td>15 000</td>
+<td>20 000</td>
+<td>17 000</td>
+<td>14 000</td>
+<td>16 000</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton logo&lt;/img&gt;
+Grafton
+GI Group Holding
+
+---
+
+
+## Page 68
+
+&lt;page_number&gt;68&lt;/page_number&gt;
+
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt; Marketing
+
+WYNAGRODZENIE
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Łódź</th>
+<th colspan="3">Katowice</th>
+<th colspan="3">Kraków</th>
+</tr>
+<tr>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+<td colspan="3">2024</td>
+</tr>
+<tr>
+<td></td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+<td>min</td>
+<td>max</td>
+<td>NO</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="10"><strong>Visual graphic</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>5 700</td>
+<td>5 000</td>
+<td>5 000</td>
+<td>6 200</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 500</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>5 500</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>6 200</td>
+<td>7 800</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>7 500</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>7 800</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>9 500</td>
+<td>8 500</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>9 000</td>
+<td>11 500</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 000</td>
+<td>10 000</td>
+<td>14 000</td>
+<td>12 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>12 000</td>
+<td>15 000</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>14 500</td>
+<td>14 000</td>
+<td>17 000</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td colspan="10"><strong>Marketing Bids (proposals, content, language)</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 800</td>
+<td>5 000</td>
+<td>6 000</td>
+<td>5 500</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>5 700</td>
+<td>7 500</td>
+<td>6 800</td>
+<td>6 500</td>
+<td>7 800</td>
+<td>7 000</td>
+<td>6 000</td>
+<td>8 500</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>7 000</td>
+<td>9 500</td>
+<td>8 500</td>
+<td>7 800</td>
+<td>10 000</td>
+<td>9 000</td>
+<td>8 500</td>
+<td>10 000</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>9 000</td>
+<td>12 000</td>
+<td>10 000</td>
+<td>10 000</td>
+<td>13 000</td>
+<td>11 500</td>
+<td>10 000</td>
+<td>14 000</td>
+<td>12 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>12 000</td>
+<td>15 500</td>
+<td>14 000</td>
+<td>13 000</td>
+<td>16 000</td>
+<td>14 500</td>
+<td>14 000</td>
+<td>17 000</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td colspan="10"><strong>Marketing (brand management, trade marketing, events&promotion)</strong></td>
+</tr>
+<tr>
+<td>junior specialist</td>
+<td>5 000</td>
+<td>5 500</td>
+<td>5 000</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 800</td>
+<td>5 000</td>
+<td>6 500</td>
+<td>5 500</td>
+</tr>
+<tr>
+<td>specialist</td>
+<td>5 500</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 000</td>
+<td>6 500</td>
+<td>8 000</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>senior specialist</td>
+<td>7 000</td>
+<td>9 000</td>
+<td>8 000</td>
+<td>8 000</td>
+<td>10 500</td>
+<td>9 500</td>
+<td>8 000</td>
+<td>10 000</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td>team leader</td>
+<td>9 000</td>
+<td>11 500</td>
+<td>10 000</td>
+<td>10 000</td>
+<td>14 000</td>
+<td>12 500</td>
+<td>10 000</td>
+<td>14 000</td>
+<td>12 000</td>
+</tr>
+<tr>
+<td>manager</td>
+<td>12 000</td>
+<td>15 000</td>
+<td>14 000</td>
+<td>14 000</td>
+<td>17 500</td>
+<td>16 000</td>
+<td>14 000</td>
+<td>17 000</td>
+<td>15 000</td>
+</tr>
+</tbody>
+</table>
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;graffton logo&lt;/img&gt;
+Grafton
+Gi Group Holding
+
+---
+
+
+## Page 69
+
+&lt;page_number&gt;69&lt;/page_number&gt;
+
+&lt;img&gt;Stacked coins icon&lt;/img&gt;
+# Marketing
+
+|  | Poznań |  | Gdańsk |  | Warszawa |  | Wrocław |  |
+|---|---|---|---|---|---|---|---|
+|  | 2024 | min | max | NO | 2024 | min | max | NO | 2024 | min | max | NO | 2024 | min | max | NO |
+| **Digital Marketing (e-commerce, SEO, SEM, online marketing, social media, data analysis)** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| junior specialist |  | 6 000 | 7 000 | 6 500 |  | 6 000 | 7 500 | 7 000 |  | 7 000 | 8 000 | 8 000 |  | 6 000 | 7 500 | 7 000 |  |
+| specialist |  | 7 000 | 9 500 | 7 500 |  | 7 500 | 9 000 | 8 000 |  | 8 000 | 10 000 | 10 000 |  | 7 500 | 9 000 | 8 000 |  |
+| senior specialist |  | 9 500 | 12 500 | 11 000 |  | 9 000 | 11 000 | 10 000 |  | 11 000 | 13 000 | 12 000 |  | 9 000 | 11 000 | 10 000 |  |
+| team leader |  | 12 500 | 14 000 | 13 000 |  | 12 000 | 14 000 | 13 000 |  | 13 000 | 15 000 | 14 000 |  | 12 000 | 14 000 | 13 000 |  |
+| manager |  | 14 000 | 18 000 | 17 000 |  | 14 000 | 18 000 | 17 000 |  | 15 000 | 19 000 | 17 000 |  | 14 000 | 18 000 | 17 000 |  |
+
+|  | Łódź |  | Katowice |  | Kraków |  |
+|---|---|---|---|---|---|---|
+|  | 2024 | min | max | NO | 2024 | min | max | NO | 2024 | min | max | NO |
+| **Digital Marketing (e-commerce, SEO, SEM, online marketing, social media, data analysis)** |  |  |  |  |  |  |  |  |  |  |  |  |
+| junior specialist |  | 5 000 | 5 500 | 5 000 |  | 5 000 | 6 500 | 6 000 |  | 5 500 | 6 500 | 5 500 |  |
+| specialist |  | 6 000 | 8 000 | 7 000 |  | 6 500 | 8 000 | 7 500 |  | 6 500 | 8 500 | 7 000 |  |
+| senior specialist |  | 7 500 | 9 500 | 8 500 |  | 8 000 | 11 000 | 9 500 |  | 8 500 | 10 000 | 9 000 |  |
+| team leader |  | 11 000 | 13 500 | 12 000 |  | 11 000 | 14 000 | 12 000 |  | 10 000 | 15 000 | 13 000 |  |
+| manager |  | 14 000 | 17 000 | 16 000 |  | 14 000 | 18 000 | 16 000 |  | 15 000 | 18 000 | 16 000 |  |
+
+NO - najczęściej oferowana.
+
+&lt;img&gt;grafton Gi Group Holding logo&lt;/img&gt;
+
+---
+
+
+## Page 70
+
+&lt;page_number&gt;70&lt;/page_number&gt;
+BUSINESS SERVICES 2024
+
+&lt;img&gt;Wynagrodzenia logo&lt;/img&gt; Wynagrodzenia
+
+&lt;watermark&gt;Wynagrodzenia&lt;/watermark&gt;
+
+Biuro
+i administracja
+
+grafton
+Gi Group Holding
